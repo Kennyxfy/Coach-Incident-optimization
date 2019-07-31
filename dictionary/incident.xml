@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,all_tables.query_hints=true,hasLabels=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="105052" text_index="true" type="collection">
+        <element choice="1" dependent="u_category2" dependent_on_field="u_category2" label="Group" max_length="40" name="x_achin_coach_inci_group" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="CS2000 - Dayend" label="Sanyo - CCCA CS2000 support"/>
+                <element dependent_value="CS2000 - Dayend" label="SOG L2 support"/>
+            </choice>
+        </element>
+    </element>
+</database>
