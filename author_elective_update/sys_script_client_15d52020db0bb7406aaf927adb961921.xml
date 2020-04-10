@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>x_achin_coach_inci_group</field>
+        <global>true</global>
+        <messages/>
+        <name>Automatic allocation group</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading)
+		return;
+	
+	var SOGL1 = 'c0174033db6d1300aa30ac461b9619a8';
+	if ( newValue != '') {
+		var group = g_form.getValue("x_achin_coach_inci_group");
+		g_form.setValue("assignment_group" , group);
+	}
+	else {
+		g_form.setValue("x_achin_coach_inci_group",SOGL1);
+	}
+	// 	if (oldValue != newValue)
+	// 		g_scratchpad.formValue = newValue;
+	
+	// 	if(newValue == 'SOG L1 support'){
+		// 		if (newValue != '') {
+			// 			var group = g_form.getValue("x_achin_coach_inci_group");
+			// 			g_form.setValue("assignment_group" , group);
+			// 		}
+			// 		// 		else {
+				// 			// 		g_form.setValue("x_achin_coach_inci_group", SOGL1 );
+				// 			// }
+				// 		}
+				// 	else {
+					// // 			g_form.setValue("x_achin_coach_inci_group",SOGL1);
+					// 		}
+					
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-31 09:59:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15d52020db0bb7406aaf927adb961921</sys_id>
+        <sys_mod_count>49</sys_mod_count>
+        <sys_name>Automatic allocation group</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sys_script_client_15d52020db0bb7406aaf927adb961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 11:00:03</sys_updated_on>
+        <table>incident</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>0436d83cdbbcdb8452e3f70fbf961966</instance_id>
+        <instance_name>tapestryasia</instance_name>
+        <name>sys_script_client_15d52020db0bb7406aaf927adb961921</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;x_achin_coach_inci_group&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;messages/&gt;&lt;name&gt;Automatic allocation group&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading)
+		return;
+	
+	var SOGL1 = 'c0174033db6d1300aa30ac461b9619a8';
+	if ( newValue != '') {
+		var group = g_form.getValue("x_achin_coach_inci_group");
+		g_form.setValue("assignment_group" , group);
+	}
+	else {
+		g_form.setValue("x_achin_coach_inci_group",SOGL1);
+	}
+	// 	if (oldValue != newValue)
+	// 		g_scratchpad.formValue = newValue;
+	
+	// 	if(newValue == 'SOG L1 support'){
+		// 		if (newValue != '') {
+			// 			var group = g_form.getValue("x_achin_coach_inci_group");
+			// 			g_form.setValue("assignment_group" , group);
+			// 		}
+			// 		// 		else {
+				// 			// 		g_form.setValue("x_achin_coach_inci_group", SOGL1 );
+				// 			// }
+				// 		}
+				// 	else {
+					// // 			g_form.setValue("x_achin_coach_inci_group",SOGL1);
+					// 		}
+					
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-07-31 09:59:13&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;15d52020db0bb7406aaf927adb961921&lt;/sys_id&gt;&lt;sys_mod_count&gt;49&lt;/sys_mod_count&gt;&lt;sys_name&gt;Automatic allocation group&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_15d52020db0bb7406aaf927adb961921&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-08-02 11:00:03&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-767492094</payload_hash>
+        <record_name>Automatic allocation group</record_name>
+        <reverted_from/>
+        <source>3a8e94e0db0bf3404f229a64db9619a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-02 11:00:03</sys_created_on>
+        <sys_id>3e378b81db0b7b406aaf927adb961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c51fc94710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-02 11:00:03</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>f2378b81000b7b406ed97d7a9f1e9a94</update_guid>
+        <update_guid_history>f2378b81000b7b406ed97d7a9f1e9a94:-767492094,b9160741c90b7b4026df2dbd09ec4af5:1881880018,4006c341100b7b403a1ccb6899b7f023:-413624961,e8e54f01bd0b7b40e9e28b5f3e1a7cd9:-403581540,d6b5cb01e60b7b40bd1a10b722fd1914:-2132808380,a0454bcd67c77b407738455297f7c885:1249002949,ff52c3c957c77b400f77efdbe8f168f3:466478111,312283c999c77b401236fa74d329e7bb:-1081710373,56d00b8943c77b40ac6cf9b95398c542:295281002,366fb2090ac77b403bf52b86e9b4e5e1:346530991,c02ffac532c77b408298643d071d0181:17444667,598dba05a8c77b4075c7b9eaf40cdefd:-1246139083,161c7a412cc77b40d5480055738dc2f3:-191430846,ce8b3601a4c77b40bac2a9907987add4:1550063455,b75b7acdb6877b40f51b622ea20f49df:1652212799,069ab68ddc877b406c94a2ff441c8ad3:1804045944,fc2a7a4dbd877b40a7c222e84558b9d3:1917582702,66f9fa4d03877b40316e52f37b040746:-1660385008,baa8f2c928877b40001bdad74439dcc7:1917582702,e968ba89ab877b4043da4f00f2697428:-1479855667,f9387e49d2877b403943d3ce5bfff310:953350923,60e5be45fb877b402f5b01d990be8bee:1960657619,f5253a05b8877b4018714be889ece43f:1917582702,c015f20530877b407ee188b38e500ccf:-1120559463,47e4fec1ed877b4009f8756c84aa47b9:1429898592,a8c4bac19b877b4085cebb7e2eb981e4:662899824,8a94f2c1ac877b404783ba04e3b3b539:-2128165072,da74fe815f877b407cf1155f56ee3e0d:701304587,abc37a415d877b403dab3b2650968048:961384965,2f437ecddb477b406192dddbc8235c86:-854749234,e0333ecd4e477b40d3ac39a087dd7705:1464600041,4a90768914477b40cdfa3a1b7d8eba27:-854749234,7e8076897a477b406c02f8f527ca6275:245287214,8c60be49fc477b40fc25d7cb5f27442b:-671989156,d85fa2c5eb477b408555d09d00c98bbc:551899642,d1dda6c1ca477b40d9f9b168f8df5ed8:-315907086,6f8d66c1d0477b4060fc6138f550d68d:7692620,1ab9a2096e077b40b2c35e6a136bc2d8:-1289778084,6539aa451b077b402a435baeef667a3e:-2006488716,b7a82245b2077b407ac45aa548cc4664:-819195816,29e62a014f077b40c4d6abd4747866ad:-419751160,85fe1e8d5e837b4038a2de2333554e36:-205280852,a0ce1e8df3837b40416c4eaf3b3fdc48:748824698,0e8ede4d1d837b409c231116bb5212a3:-1374635636,e62e160db3837b406c8f83d614a5ec69:-413047826,986b3f681c07f740b77ea80b3d710da8:-1675970990,acea7fe47e07f74056316d478d8dd076:-179462248,ce7a3f24eb07f740f6574c452f221b98:-1209407725,f417ec209f0bb74037751da6100bb892:-293418650,8c26e020690bb740bad39aa9a1046df8:1659278394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-16 08:16:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>06d0b78871514b14905eb15216f2f410</sys_id>
+        <sys_metadata>15d52020db0bb7406aaf927adb961921</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Automatic allocation group</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent display_value="Incident">38cd18f8db70130065799c18db9619de</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sys_script_client_15d52020db0bb7406aaf927adb961921</sys_update_name>
+        <sys_update_version display_value="sys_script_client_15d52020db0bb7406aaf927adb961921">3e378b81db0b7b406aaf927adb961994</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-16 08:16:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
