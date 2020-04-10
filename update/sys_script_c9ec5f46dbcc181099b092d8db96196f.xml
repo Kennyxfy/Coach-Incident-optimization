@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>false</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>incident</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="incident">u_category2=Accessory Bar^ORu_category2=AD account^ORu_category2=Adobe Reader^ORu_category2=Air Tight Wifi^ORu_category2=AnyConnect(VPN)^ORu_category2=Bartender^ORu_category2=BI - CORA^ORu_category2=Burglar System^ORu_category2=Business Hour^ORu_category2=Bye Bye Time Card^ORu_category2=C360 - Name Capture and CRM^ORu_category2=Cash Draw^ORu_category2=CCTV^ORu_category2=CCTV/Security^ORu_category2=Citrix^ORu_category2=CJ smart report^ORu_category2=Clientelling^ORu_category2=Coach create customization^ORu_category2=Coach Journey^ORu_category2=CS2000 - BE^ORu_category2=CS2000 - Dayend^ORu_category2=CS2000 - MSMQ^ORu_category2=CS2000 - Pilot^ORu_category2=CS2000 - Promotion^ORu_category2=CS2000 - S3^ORu_category2=CS2000 - SSRS^ORu_category2=CS2000 - Web^ORu_category2=cs2000 interface alert^ORu_category2=cs2000 z-logs alert^ORu_category2=daily mon. report-day-end^ORu_category2=daily mon. report-network ap^ORu_category2=daily mon. report-network wan^ORu_category2=daily mon. report-polling^ORu_category2=daily mon. report-posting^ORu_category2=e-name capture^ORu_category2=e-name capture - Pilot^ORu_category2=eas anti-shoppinglifting^ORu_category2=ecbsr^ORu_category2=Egnyte folder^ORu_category2=Geo^ORu_category2=HHT - Handy^ORu_category2=HHT - Stock Take^ORu_category2=HHT - Web^ORu_category2=hht interface alert^ORu_category2=IDM^ORu_category2=Income^ORu_category2=Intelligent Hub^ORu_category2=IOS - General^ORu_category2=IOS Safari^ORu_category2=iPad^ORu_category2=iPod^ORu_category2=iPod Jacket^ORu_category2=Keyboard / Mouse^ORu_category2=LAN - Cable^ORu_category2=LAN - Wireless^ORu_category2=Manual Traffic^ORu_category2=Micros-Xstore^ORu_category2=MIM - Handy^ORu_category2=MIM - Stock Take^ORu_category2=Mobile Payment Device^ORu_category2=MobileIron^ORu_category2=Monitor^ORu_category2=MS Office-WORD/EXCEL/PPT^ORu_category2=Music Player^ORu_category2=Outlook^ORu_category2=Payment Device(CAT)^ORu_category2=Payment Device(TAX FREE)^ORu_category2=PC Browser^ORu_category2=People Hub^ORu_category2=Pocket WIFI^ORu_category2=Printer^ORu_category2=Scanner^ORu_category2=SEP^ORu_category2=Shoppertrak^ORu_category2=Shoptalk(SAP JAM)^ORu_category2=Software-Printer^ORu_category2=Store Intranet^ORu_category2=Store Supply System^ORu_category2=T&amp;A - In-touch^ORu_category2=T&amp;A - in-touch^ORu_category2=T&amp;A - Roster^ORu_category2=T&amp;A - Web^ORu_category2=T&amp;A - WeKronos^ORu_category2=TAX Free Ipad^ORu_category2=Telecom^ORu_category2=Telephone^ORu_category2=The Loop^ORu_category2=tidal job alert^ORu_category2=traffic alert^ORu_category2=TV Wall^ORu_category2=VM insight^ORu_category2=VPN^ORu_category2=WAN^EQ<item display_value="Accessory Bar" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="false" value="Accessory Bar"/>
+            <item display_value="AD account" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="AD account"/>
+            <item display_value="Adobe Reader" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Adobe Reader"/>
+            <item display_value="Air Tight Wifi" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Air Tight Wifi"/>
+            <item display_value="AnyConnect(VPN)" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="AnyConnect(VPN)"/>
+            <item display_value="Bartender" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Bartender"/>
+            <item display_value="BI - CORA" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="BI - CORA"/>
+            <item display_value="Burglar System" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Burglar System"/>
+            <item display_value="Business Hour" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Business Hour"/>
+            <item display_value="Bye Bye Time Card" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Bye Bye Time Card"/>
+            <item display_value="C360 - Name Capture and CRM" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="C360 - Name Capture and CRM"/>
+            <item display_value="Cash Draw" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Cash Draw"/>
+            <item display_value="CCTV" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CCTV"/>
+            <item display_value="CCTV/Security" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CCTV/Security"/>
+            <item display_value="Citrix" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Citrix"/>
+            <item display_value="CJ smart report" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CJ smart report"/>
+            <item display_value="Clientelling" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Clientelling"/>
+            <item display_value="Coach create customization" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Coach create customization"/>
+            <item display_value="Coach Journey" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Coach Journey"/>
+            <item display_value="CS2000 - BE" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - BE"/>
+            <item display_value="CS2000 - Dayend" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - Dayend"/>
+            <item display_value="CS2000 - MSMQ" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - MSMQ"/>
+            <item display_value="CS2000 - Pilot" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - Pilot"/>
+            <item display_value="CS2000 - Promotion" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - Promotion"/>
+            <item display_value="CS2000 - S3" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - S3"/>
+            <item display_value="CS2000 - SSRS" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - SSRS"/>
+            <item display_value="CS2000 - Web" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="CS2000 - Web"/>
+            <item display_value="CS2000 Interface Alert" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="cs2000 interface alert"/>
+            <item display_value="CS2000 z-logs Alert" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="cs2000 z-logs alert"/>
+            <item display_value="Daily Mon. Report-Day-End" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="daily mon. report-day-end"/>
+            <item display_value="Daily Mon. Report-Network AP" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="daily mon. report-network ap"/>
+            <item display_value="Daily Mon. Report-Network WAN" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="daily mon. report-network wan"/>
+            <item display_value="Daily Mon. Report-Polling" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="daily mon. report-polling"/>
+            <item display_value="Daily Mon. Report-Posting" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="daily mon. report-posting"/>
+            <item display_value="e-name capture" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="e-name capture"/>
+            <item display_value="e-name capture - Pilot" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="e-name capture - Pilot"/>
+            <item display_value="eas anti-shoppinglifting" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="eas anti-shoppinglifting"/>
+            <item display_value="ecbsr" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="ecbsr"/>
+            <item display_value="Egnyte folder" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Egnyte folder"/>
+            <item display_value="Geo" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Geo"/>
+            <item display_value="HHT - Handy" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="HHT - Handy"/>
+            <item display_value="HHT - Stock Take" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="HHT - Stock Take"/>
+            <item display_value="HHT - Web" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="HHT - Web"/>
+            <item display_value="HHT Interface Alert" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="hht interface alert"/>
+            <item display_value="IDM" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="IDM"/>
+            <item display_value="Income" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Income"/>
+            <item display_value="Intelligent Hub" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Intelligent Hub"/>
+            <item display_value="IOS - General" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="IOS - General"/>
+            <item display_value="IOS Safari" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="IOS Safari"/>
+            <item display_value="iPad" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="iPad"/>
+            <item display_value="iPod" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="iPod"/>
+            <item display_value="iPod Jacket" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="iPod Jacket"/>
+            <item display_value="Keyboard / Mouse" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Keyboard / Mouse"/>
+            <item display_value="LAN - Cable" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="LAN - Cable"/>
+            <item display_value="LAN - Wireless" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="LAN - Wireless"/>
+            <item display_value="Manual Traffic" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Manual Traffic"/>
+            <item display_value="Micros-Xstore" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Micros-Xstore"/>
+            <item display_value="MIM - Handy" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="MIM - Handy"/>
+            <item display_value="MIM - Stock Take" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="MIM - Stock Take"/>
+            <item display_value="Mobile Payment Device" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Mobile Payment Device"/>
+            <item display_value="MobileIron" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="MobileIron"/>
+            <item display_value="Monitor" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Monitor"/>
+            <item display_value="MS Office-WORD/EXCEL/PPT" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="MS Office-WORD/EXCEL/PPT"/>
+            <item display_value="Music Player" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Music Player"/>
+            <item display_value="Outlook" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Outlook"/>
+            <item display_value="Payment Device(CAT)" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Payment Device(CAT)"/>
+            <item display_value="Payment Device(TAX FREE)" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Payment Device(TAX FREE)"/>
+            <item display_value="PC Browser" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="PC Browser"/>
+            <item display_value="People Hub" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="People Hub"/>
+            <item display_value="Pocket WIFI" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Pocket WIFI"/>
+            <item display_value="Printer" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Printer"/>
+            <item display_value="Scanner" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Scanner"/>
+            <item display_value="SEP" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="SEP"/>
+            <item display_value="Shoppertrak" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Shoppertrak"/>
+            <item display_value="Shoptalk(SAP JAM)" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Shoptalk(SAP JAM)"/>
+            <item display_value="Software-Printer" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Software-Printer"/>
+            <item display_value="Store Intranet" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Store Intranet"/>
+            <item display_value="Store Supply System" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Store Supply System"/>
+            <item display_value="T&amp;A - In-touch" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="T&amp;A - In-touch"/>
+            <item display_value="T&amp;A - in-touch" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="T&amp;A - in-touch"/>
+            <item display_value="T&amp;A - Roster" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="T&amp;A - Roster"/>
+            <item display_value="T&amp;A - Web" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="T&amp;A - Web"/>
+            <item display_value="T&amp;A - WeKronos" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="T&amp;A - WeKronos"/>
+            <item display_value="TAX Free Ipad" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="TAX Free Ipad"/>
+            <item display_value="Telecom" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Telecom"/>
+            <item display_value="Telephone" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="Telephone"/>
+            <item display_value="The Loop" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="The Loop"/>
+            <item display_value="Tidal Job Alert" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="tidal job alert"/>
+            <item display_value="Traffic Alert" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="traffic alert"/>
+            <item display_value="TV Wall" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="TV Wall"/>
+            <item display_value="VM insight" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="VM insight"/>
+            <item display_value="VPN" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="VPN"/>
+            <item display_value="WAN" endquery="false" field="u_category2" goto="false" newquery="false" operator="=" or="true" value="WAN"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Category2 change Plan Token 1</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 04:36:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c9ec5f46dbcc181099b092d8db96196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category2 change Plan Token 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sys_script_c9ec5f46dbcc181099b092d8db96196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 04:36:09</sys_updated_on>
+        <template>x_achin_coach_inci_u_plan_token=1^EQ</template>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=c9ec5f46dbcc181099b092d8db96196f"/>
+</record_update>
