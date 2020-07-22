@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Self Service">c35fd50fdb465c5099b092d8db961983</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>FE password reset and account unlocked</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=08cd510fdb465c5099b092d8db96195e&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[var linkURL = '<a href="' + link + '">' + gs.getMessage(linkLbl) + '</a>';
+var msgArgs = [br, linkURL];
+
+var info = gs.getMessage("This incident was opened on your behalf{0}The IT department will contact you if they need any further information{0}You can track status from this {1} {0}", msgArgs);
+
+gs.addInfoMessage(info);
+var caller = gs.getUserID();
+var parent_table = RP.getParameterValue('sysparm_parent_table');
+if (JSUtil.notNil(parent_table)) {
+	var parent_map = new GlideRecord('request_parent_mapping');
+	parent_map.addQuery('parent_table', parent_table);
+	parent_map.query();
+	if (parent_map.next())
+		var requested_for_field = parent_map.getValue('requested_for_field');
+	var parentGR = new GlideRecord(parent_table);
+	parentGR.addQuery('sys_id', RP.getParameterValue('sysparm_parent_sys_id'));
+	parentGR.query();
+	if (parentGR.next())
+		caller = parentGR.getValue(requested_for_field);
+}
+current.contact_type = 'self-service';
+current.caller_id = caller;
+if (producer.comments.length > 80)
+	current.short_description = producer.comments.substring(0, 79);
+else
+	current.short_description = producer.comments;
+current.description = producer.comments;
+
+var incRPUtil = new LinkRecordProducerToIncident();
+incRPUtil.linkRecordProducerToParentIncident(RP.getParameterValue('sysparm_parent_sys_id'), current);
+]]></script>
+        <short_description>Please provide your personal staff AD</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 07:50:47</sys_created_on>
+        <sys_id>08cd510fdb465c5099b092d8db96195e</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>FE password reset and account unlocked</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sc_cat_item_producer_08cd510fdb465c5099b092d8db96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 09:49:11</sys_updated_on>
+        <table_name>incident</table_name>
+        <template display_value="Reset Password">56e62ccbc611227500adb083f968a484</template>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=08cd510fdb465c5099b092d8db96195e"/>
+    <fx_price action="delete_multiple" query="id=08cd510fdb465c5099b092d8db96195e"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="CNY">CNY</currency>
+        <field>price</field>
+        <id>08cd510fdb465c5099b092d8db96195e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 07:50:47</sys_created_on>
+        <sys_id>cebed14fdb465c5099b092d8db961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 07:50:47</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="CNY">CNY</currency>
+        <field>recurring_price</field>
+        <id>08cd510fdb465c5099b092d8db96195e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 07:50:47</sys_created_on>
+        <sys_id>c6bed14fdb465c5099b092d8db961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 07:50:47</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="DELETE">
+        <default>true</default>
+        <sc_catalog display_value="Self Service">b2bb554bdb465c5099b092d8db9619a3</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 07:41:33</sys_created_on>
+        <sys_id>229c958bdb465c5099b092d8db96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Self Service.catalog_self_service</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_self_service">a29c9d0bdb465c5099b092d8db9619d5</sys_portal_page>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_229c958bdb465c5099b092d8db96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 07:41:33</sys_updated_on>
+    </sc_catalog_view_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sc_catalog_view_mtom_229c958bdb465c5099b092d8db96194e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom"><sc_catalog_view_mtom action="INSERT_OR_UPDATE"><default>true</default><sc_catalog display_value="Self Service">b2bb554bdb465c5099b092d8db9619a3</sc_catalog><sys_class_name>sc_catalog_view_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 07:41:33</sys_created_on><sys_id>229c958bdb465c5099b092d8db96194e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Self Service.catalog_self_service</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_portal_page display_value="catalog_self_service">a29c9d0bdb465c5099b092d8db9619d5</sys_portal_page><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sc_catalog_view_mtom_229c958bdb465c5099b092d8db96194e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 07:41:33</sys_updated_on></sc_catalog_view_mtom></record_update>]]></payload>
+        <payload_hash>-884180831</payload_hash>
+        <record_name>Self Service.catalog_self_service</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 07:41:33</sys_created_on>
+        <sys_id>669c958bdb465c5099b092d8db961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173705210540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 07:41:33</sys_updated_on>
+        <type>Catalog Portal Page</type>
+        <update_guid>6e9c958bb3465c503e21e6c2d390464f</update_guid>
+        <update_guid_history>6e9c958bb3465c503e21e6c2d390464f:-884180831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-21 15:51:45">40fedd4fdb465c5099b092d8db96197f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 07:51:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog_view_mtom">sc_catalog_view_mtom</sys_db_object>
+        <sys_id>14b36a44579643c084c1bfc19df86100</sys_id>
+        <sys_metadata>229c958bdb465c5099b092d8db96194e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Self Service.catalog_self_service</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sc_catalog_view_mtom_229c958bdb465c5099b092d8db96194e</sys_update_name>
+        <sys_update_version display_value="sc_catalog_view_mtom_229c958bdb465c5099b092d8db96194e">669c958bdb465c5099b092d8db961950</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 07:51:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
