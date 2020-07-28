@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>key</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">6592140cdb9e509099b092d8db96196b</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 08:16:47</sys_created_on>
+        <sys_id>07a4a507db865c5099b092d8db9619d0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Store AD account unlocked or reset the PWD</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_link_07a4a507db865c5099b092d8db9619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 04:55:55</sys_updated_on>
+        <title>Store AD account unlocked or reset the PWD</title>
+        <type>url</type>
+        <url>2d812903db865c5099b092d8db9619b9</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=07a4a507db865c5099b092d8db9619d0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_link_07a4a507db865c5099b092d8db9619d0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;key&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;6592140cdb9e509099b092d8db96196b&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-21 08:16:47&lt;/sys_created_on&gt;&lt;sys_id&gt;07a4a507db865c5099b092d8db9619d0&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Store AD account unlocked or reset the PWD&lt;/sys_name&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_07a4a507db865c5099b092d8db9619d0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-24 04:55:55&lt;/sys_updated_on&gt;&lt;title&gt;Store AD account unlocked or reset the PWD&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;2d812903db865c5099b092d8db9619b9&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=07a4a507db865c5099b092d8db9619d0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>123901959</payload_hash>
+        <record_name>Store AD account unlocked or reset the PWD</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 04:55:55</sys_created_on>
+        <sys_id>b173d44cdb9e509099b092d8db9619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1737f2d81a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 04:55:55</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>b573104c8c9e50909b824d28179d9e7e</update_guid>
+        <update_guid_history>b573104c8c9e50909b824d28179d9e7e:123901959,daa2940cfd9e5090672eda588abb235d:-1460883681,e7cb25cfd4865c50d460093ba59f9f5b:-101074249,cd5629c7e1865c5052b0ba2e9ebed4b6:24983216,d415e1c7eb865c500f7de363a22cb1c4:476435701,8ba4a5073b865c50cc9c31c4c98c5ad1:-828762721</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-24 13:19:30">53d8d484dbde509099b092d8db9619f3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 05:19:30</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>62c1916ff8e54c38a313fde6f05713d9</sys_id>
+        <sys_metadata>07a4a507db865c5099b092d8db9619d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store AD account unlocked or reset the PWD</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_link_07a4a507db865c5099b092d8db9619d0</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_07a4a507db865c5099b092d8db9619d0">b173d44cdb9e509099b092d8db9619bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 05:19:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -11,18 +11,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-22 03:53:23</sys_created_on>
         <sys_id>fcf1b197dbca9c5099b092d8db96190f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>u_issue_catalog</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>catalog_ui_policy_action_fcf1b197dbca9c5099b092d8db96190f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-22 03:53:23</sys_updated_on>
+        <sys_updated_on>2020-07-27 01:44:25</sys_updated_on>
         <table/>
         <ui_policy display_value="read only">5ed17d17dbca9c5099b092d8db961921</ui_policy>
         <variable>u_issue_catalog</variable>
         <variable_set/>
-        <visible>ignore</visible>
+        <visible>false</visible>
     </catalog_ui_policy_action>
 </record_update>
