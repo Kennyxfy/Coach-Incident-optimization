@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>comments-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="For CN region, it was called WeClientell and we just need to reset the PWD">bfd16943db865c5099b092d8db961999</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">ef6bf05ddb96589067c89cb6db961975</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 01:28:29</sys_created_on>
+        <sys_id>90c08738db96949099b092d8db9619a5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>For CN region,it was called WeClientell and we just need to reset the PWD</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_link_90c08738db96949099b092d8db9619a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 05:04:07</sys_updated_on>
+        <title>For CN region,it was called WeClientell and we just need to reset the PWD</title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=90c08738db96949099b092d8db9619a5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_link_90c08738db96949099b092d8db9619a5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;comments-o&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="For CN region, it was called WeClientell and we just need to reset the PWD"&gt;bfd16943db865c5099b092d8db961999&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;ef6bf05ddb96589067c89cb6db961975&lt;/sp_column&gt;&lt;sp_page display_value="sc_cat_item"&gt;9f12251147132100ba13a5554ee490f4&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-27 01:28:29&lt;/sys_created_on&gt;&lt;sys_id&gt;90c08738db96949099b092d8db9619a5&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;For CN region,it was called WeClientell and we just need to reset the PWD&lt;/sys_name&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_90c08738db96949099b092d8db9619a5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-28 05:04:07&lt;/sys_updated_on&gt;&lt;title&gt;For CN region,it was called WeClientell and we just need to reset the PWD&lt;/title&gt;&lt;type&gt;sc_cat_item&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=90c08738db96949099b092d8db9619a5"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-371559910</payload_hash>
+        <record_name>For CN region,it was called WeClientell and we just need to reset the PWD</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 05:04:07</sys_created_on>
+        <sys_id>b8bb3c1ddb96589067c89cb6db96191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17393ce738e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 05:04:07</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>70bb3c1d6496589020f04472ce8fc01c</update_guid>
+        <update_guid_history>70bb3c1d6496589020f04472ce8fc01c:-371559910,00bbb85df496589046b382a35b5df0c2:92285084,d7010338f2969490a3db399225217ba3:-1850741603,03c0c738a9969490c98686fb465981b4:970491980,18c08738e9969490aba9195f1d382fa6:-1072829685</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-28 14:49:26">2bc3d595db5a589067c89cb6db96190f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:49:26</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>9dd06fd84d824c16a2feb5575a772bd9</sys_id>
+        <sys_metadata>90c08738db96949099b092d8db9619a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>For CN region,it was called WeClientell and we just need to reset the PWD</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_link_90c08738db96949099b092d8db9619a5</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_90c08738db96949099b092d8db9619a5">b8bb3c1ddb96589067c89cb6db96191c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:49:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="For CN region, it was called WeClientell and we just need to reset the PWD">bfd16943db865c5099b092d8db961999</catalog_item>
+        <catalog_variable>IO:d57ca55fdb8a9c5099b092d8db9619f4</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 03:31:34</sys_created_on>
+        <sys_id>29fca59fdb8a9c5099b092d8db961964</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_issue_catalog</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_29fca59fdb8a9c5099b092d8db961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 01:51:41</sys_updated_on>
+        <table/>
+        <ui_policy display_value="read only">7bdc255fdb8a9c5099b092d8db961976</ui_policy>
+        <variable>u_issue_catalog</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>catalog_ui_policy_action_29fca59fdb8a9c5099b092d8db961964</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="For CN region, it was called WeClientell and we just need to reset the PWD">bfd16943db865c5099b092d8db961999</catalog_item><catalog_variable>IO:d57ca55fdb8a9c5099b092d8db9619f4</catalog_variable><cleared>false</cleared><disabled>true</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-22 03:31:34</sys_created_on><sys_id>29fca59fdb8a9c5099b092d8db961964</sys_id><sys_mod_count>1</sys_mod_count><sys_name>u_issue_catalog</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>catalog_ui_policy_action_29fca59fdb8a9c5099b092d8db961964</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-27 01:51:41</sys_updated_on><table/><ui_policy display_value="read only">7bdc255fdb8a9c5099b092d8db961976</ui_policy><variable>u_issue_catalog</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-125994236</payload_hash>
+        <record_name>u_issue_catalog</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-27 01:51:41</sys_created_on>
+        <sys_id>44164b30dbd6949099b092d8db961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1738df7e80b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-27 01:51:41</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>4c164b30c9d69490cf7a19a79f9a2c18</update_guid>
+        <update_guid_history>4c164b30c9d69490cf7a19a79f9a2c18:-125994236,3efca59f598a9c5030f4ee31628d74d7:-582451945</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-28 17:56:06">8e8eb151db5e589067c89cb6db961948</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:56:06</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>2f779fa82e574f0693345d32450ea3e4</sys_id>
+        <sys_metadata>29fca59fdb8a9c5099b092d8db961964</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_issue_catalog</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_29fca59fdb8a9c5099b092d8db961964</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_29fca59fdb8a9c5099b092d8db961964">44164b30dbd6949099b092d8db961919</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 09:56:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

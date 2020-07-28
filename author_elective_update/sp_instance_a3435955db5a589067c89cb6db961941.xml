@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">0f911888db9e509099b092d8db961924</sp_column>
+        <sp_widget display_value="My Requests">8cc0df25875023000f220cf888cb0bb5</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:47:15</sys_created_on>
+        <sys_id>a3435955db5a589067c89cb6db961941</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Incident</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_a3435955db5a589067c89cb6db961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:49:45</sys_updated_on>
+        <title>My Incident</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "My Incident",
+		"displayValue": "My Incident"
+	},
+	"show_view": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"items_per_page": {
+		"value": null,
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a3435955db5a589067c89cb6db961941"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_a3435955db5a589067c89cb6db961941</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;0f911888db9e509099b092d8db961924&lt;/sp_column&gt;&lt;sp_widget display_value="My Requests"&gt;8cc0df25875023000f220cf888cb0bb5&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-28 06:47:15&lt;/sys_created_on&gt;&lt;sys_id&gt;a3435955db5a589067c89cb6db961941&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;My Incident&lt;/sys_name&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_a3435955db5a589067c89cb6db961941&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-28 06:49:45&lt;/sys_updated_on&gt;&lt;title&gt;My Incident&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "My Incident",
+		"displayValue": "My Incident"
+	},
+	"show_view": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"items_per_page": {
+		"value": null,
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a3435955db5a589067c89cb6db961941"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1281257712</payload_hash>
+        <record_name>My Incident</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:49:45</sys_created_on>
+        <sys_id>80e3d195db5a589067c89cb6db961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173942f27ca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:49:45</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>48e3d195ee5a58901f006e0387473386</update_guid>
+        <update_guid_history>48e3d195ee5a58901f006e0387473386:-1281257712,82631d55925a5890e283eaee62a17696:722139151,6b4359559b5a58907b51cbfd6ac40c42:-878761857</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-28 14:50:53">3424d195db5a589067c89cb6db96192d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:50:53</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>2fee4211b11d466492bba9b9f32979c9</sys_id>
+        <sys_metadata>a3435955db5a589067c89cb6db961941</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Incident</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_a3435955db5a589067c89cb6db961941</sys_update_name>
+        <sys_update_version display_value="sp_instance_a3435955db5a589067c89cb6db961941">80e3d195db5a589067c89cb6db961987</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:50:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

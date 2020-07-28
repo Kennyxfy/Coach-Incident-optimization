@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>description</display_field>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">0f911888db9e509099b092d8db961924</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 04:49:11</sys_created_on>
+        <sys_id>4fe15c88db9e509099b092d8db96194d</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_vlist_4fe15c88db9e509099b092d8db96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:47:15</sys_updated_on>
+        <table>incident</table>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "number,state,sys_updated_on",
+		"displayValue": "number,state,sys_updated_on"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=4fe15c88db9e509099b092d8db96194d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_vlist_4fe15c88db9e509099b092d8db96194d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_vlist"&gt;&lt;sp_instance_vlist action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field&gt;description&lt;/display_field&gt;&lt;field_list/&gt;&lt;filter/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;2&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;0f911888db9e509099b092d8db961924&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Simple List"&gt;5b255672cb03020000f8d856634c9c28&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_vlist&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-24 04:49:11&lt;/sys_created_on&gt;&lt;sys_id&gt;4fe15c88db9e509099b092d8db96194d&lt;/sys_id&gt;&lt;sys_mod_count&gt;15&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_vlist_4fe15c88db9e509099b092d8db96194d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-28 06:47:15&lt;/sys_updated_on&gt;&lt;table&gt;incident&lt;/table&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"panel_body_height": {
+		"value": "",
+		"displayValue": ""
+	},
+	"image_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "number,state,sys_updated_on",
+		"displayValue": "number,state,sys_updated_on"
+	},
+	"rounded_images": {
+		"value": "",
+		"displayValue": ""
+	},
+	"list_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"hide_footer": {
+		"value": "",
+		"displayValue": ""
+	},
+	"view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"disable_record_watcher": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_vlist&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=4fe15c88db9e509099b092d8db96194d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>748076651</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:47:15</sys_created_on>
+        <sys_id>eb435955db5a589067c89cb6db9619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173942cdeea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:47:15</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>a3435955235a5890791d7221e3b0dfba</update_guid>
+        <update_guid_history>a3435955235a5890791d7221e3b0dfba:748076651,5d431955685a589074de094d8d4572ed:948835114,53331955915a5890904f60a4e5494b23:748076651,adcc76f0e496949047b74013ee13131c:948835114,0cab50888bde50908d3d1187ebde7785:-588137688,bae85884c3de50903fc28169ec91e941:-599468025,6dd8d48415de509090e92fff5f828e43:-1546472888,4e579c80b8de509089ecf956aa1abb13:1801489545,1d575c80d4de5090d45609bcbe213267:-1546472888,ef27988049de5090e2546ed3c9297530:1801489545,fc27dc40fede5090347a1153f493b696:-1546472888,4c07948020de50908635d07ce5bdc65e:1801489545,f5b6dc409bde50905dec22eed041fe85:-1546472888,7c5214c8ab9e5090294b7f762a0c7550:-599468025,0d32d844219e5090b0843ba1bfd692eb:-1970139639,8fe15c884c9e5090ce9f5c420ecf884f:1997252412</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-28 14:47:27">a2539955db5a589067c89cb6db9619fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:47:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>306fa77ebf2b4c1295bb13639d500c01</sys_id>
+        <sys_metadata>4fe15c88db9e509099b092d8db96194d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_4fe15c88db9e509099b092d8db96194d</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_4fe15c88db9e509099b092d8db96194d">eb435955db5a589067c89cb6db9619ba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 06:47:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
