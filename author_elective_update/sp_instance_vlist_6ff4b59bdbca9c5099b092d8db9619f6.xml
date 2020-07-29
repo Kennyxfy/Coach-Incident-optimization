@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist">
+    <sp_instance_vlist action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field>short_description</display_field>
+        <field_list/>
+        <filter table="kb_knowledge">kb_knowledge_base.titleSTARTSWITHtest<item endquery="false" field="kb_knowledge_base.title" goto="false" newquery="false" operator="STARTSWITH" or="false" value="test"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">4ad72da5db12d89067c89cb6db9619a5</sp_column>
+        <sp_page/>
+        <sp_widget display_value="News Ticker">a9a0b0dec3623100c8b837659bba8f80</sp_widget>
+        <sys_class_name>sp_instance_vlist</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-22 04:06:35</sys_created_on>
+        <sys_id>6ff4b59bdbca9c5099b092d8db9619f6</sys_id>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_vlist_6ff4b59bdbca9c5099b092d8db9619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 04:49:17</sys_updated_on>
+        <table>kb_knowledge</table>
+        <title>Notes</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_vlist>
+    <sys_translated_text action="DELETE" query="documentkey=6ff4b59bdbca9c5099b092d8db9619f6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_vlist_6ff4b59bdbca9c5099b092d8db9619f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_vlist"><sp_instance_vlist action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field>short_description</display_field><field_list/><filter table="kb_knowledge">kb_knowledge_base.titleSTARTSWITHtest<item endquery="false" field="kb_knowledge_base.title" goto="false" newquery="false" operator="STARTSWITH" or="false" value="test"/></filter><glyph/><id/><maximum_entries>5</maximum_entries><order>2</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="2">4ad72da5db12d89067c89cb6db9619a5</sp_column><sp_page/><sp_widget display_value="News Ticker">a9a0b0dec3623100c8b837659bba8f80</sp_widget><sys_class_name>sp_instance_vlist</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-22 04:06:35</sys_created_on><sys_id>6ff4b59bdbca9c5099b092d8db9619f6</sys_id><sys_mod_count>37</sys_mod_count><sys_name>Notes</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sp_instance_vlist_6ff4b59bdbca9c5099b092d8db9619f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-29 04:49:17</sys_updated_on><table>kb_knowledge</table><title>Notes</title><url/><widget_parameters/></sp_instance_vlist><sys_translated_text action="delete_multiple" query="documentkey=6ff4b59bdbca9c5099b092d8db9619f6"/></record_update>]]></payload>
+        <payload_hash>-482918105</payload_hash>
+        <record_name>Notes</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 04:49:18</sys_created_on>
+        <sys_id>d9e14669db92d89067c89cb6db961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17398e73cac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 04:49:18</sys_updated_on>
+        <type>Instance of Simple List</type>
+        <update_guid>91e146696a92d890dd34beac213de106</update_guid>
+        <update_guid_history>91e146696a92d890dd34beac213de106:-482918105,6c8821e57212d8903a97df9ff8f44c00:-211759194,801861e51c12d89023283ebd4abcbfb8:1646541868,4c1861e5de12d89019cfaa6800e6957e:-211759194,cf0861e5d312d890d7419c2c259c506b:1646541868,870861e51112d890b379ffc8eb55e03e:-211759194,f40821e56412d890518bc82295971b64:1646541868,f40821e59612d89049e0b8479929595e:-211759194,9de76da5d812d890d0347cd89ab515b8:1646541868,15e76da54312d89094802ece12bf62b3:1361980775,bed72da5a812d890e68fd6e68417d8bc:1646541868,1ed769a5f912d890e775d095b7950397:1361980775,f96569e12a12d890c786e510d1d7e11d:1646541868,3055e5e1a512d890bfcf8621b6dbd990:1375382957,6a45a5e16c12d8903be230cfdbec26b3:1104224046,8c4565e19e12d890f85de02eb2257f89:1375382957,113525e14a12d8909c4cad1f37e1b794:1646541868,9f2525e1cd12d890615f6ad91849320b:1917700779,9025e1e15112d890794b8de022139b4f:1646541868,560561e14812d8908d32ad941941c074:1917700779,2152e5ed2dde9890f1ab387003516109:-2106107606,e1e1adad31de98909ae9476597d49d77:1917700779,632a295547da5890559ff891d4ac401a:-2106107606,9866e1119eda5890f6935f5e7d8f662a:1917700779,a136eddd8d9a589044f08c0b205dd73a:-2106107606,4520cbf477969490d0b1d22ff2162692:2143280846,78108bf4a99694907fa76605eb7c6c1d:1872121935,38ae3e74379694904d30b9164c589166:2143280846,5e6ef674d2969490f81fed30990ba0f2:1872121935,5ccc5c88c9de5090bf0fa3326f2cbb8c:2143280846,52c15888109e50909b9a61f2ea946676:-1815625022,24a19c88999e509060a820a259cfbd04:1369502369,46d5b9db3fca9c502bbad00d4fc2a059:-1650405851,65d57ddb53ca9c50f2c26ca3c0605398:-1037244867,3585399bb1ca9c50dd90d72683c6c130:1841461596,8e653d9b55ca9c5021b7ada5b00ce474:-1037244867,b525759bb6ca9c5019a8154c78814315:-463586531,e3f4b59ba0ca9c50f3a61a559dfd81f9:85701137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-29 13:16:44">e328ca61dbd2d89067c89cb6db9619b8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 05:16:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_vlist">sp_instance_vlist</sys_db_object>
+        <sys_id>9125925aab27466895d85173861a3840</sys_id>
+        <sys_metadata>6ff4b59bdbca9c5099b092d8db9619f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_vlist_6ff4b59bdbca9c5099b092d8db9619f6</sys_update_name>
+        <sys_update_version display_value="sp_instance_vlist_6ff4b59bdbca9c5099b092d8db9619f6">d9e14669db92d89067c89cb6db961906</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 05:16:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

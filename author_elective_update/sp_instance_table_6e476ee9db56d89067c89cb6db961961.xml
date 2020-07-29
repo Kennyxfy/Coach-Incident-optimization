@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>number,short_description,sys_updated_on</field_list>
+        <filter table="kb_knowledge">kb_knowledge_base=796c1591db9a589067c89cb6db961983<item display_table="kb_knowledge_base" display_value="FAQ" endquery="false" field="kb_knowledge_base" goto="false" newquery="false" operator="=" or="false" value="796c1591db9a589067c89cb6db961983"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>3</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b3372ae9db56d89067c89cb6db96190b</sp_column>
+        <sp_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</sp_page>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:32:40</sys_created_on>
+        <sys_id>6e476ee9db56d89067c89cb6db961961</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>FAQ</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_table_6e476ee9db56d89067c89cb6db961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:46:54</sys_updated_on>
+        <table>kb_knowledge</table>
+        <title>FAQ</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=6e476ee9db56d89067c89cb6db961961"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_table_6e476ee9db56d89067c89cb6db961961</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field/><field_list>number,short_description,sys_updated_on</field_list><filter table="kb_knowledge">kb_knowledge_base=796c1591db9a589067c89cb6db961983<item display_table="kb_knowledge_base" display_value="FAQ" endquery="false" field="kb_knowledge_base" goto="false" newquery="false" operator="=" or="false" value="796c1591db9a589067c89cb6db961983"/></filter><glyph/><id/><maximum_entries>5</maximum_entries><order>3</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">b3372ae9db56d89067c89cb6db96190b</sp_column><sp_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</sp_page><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-29 07:32:40</sys_created_on><sys_id>6e476ee9db56d89067c89cb6db961961</sys_id><sys_mod_count>16</sys_mod_count><sys_name>FAQ</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sp_instance_table_6e476ee9db56d89067c89cb6db961961</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-29 07:46:54</sys_updated_on><table>kb_knowledge</table><title>FAQ</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=6e476ee9db56d89067c89cb6db961961"/></record_update>]]></payload>
+        <payload_hash>1092755182</payload_hash>
+        <record_name>FAQ</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:46:54</sys_created_on>
+        <sys_id>8f8aee21db96d89067c89cb6db961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1739989d7b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:46:54</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>478aee210396d890c74d4753b38e1001</update_guid>
+        <update_guid_history>478aee210396d890c74d4753b38e1001:1092755182,977a6e21ed96d89005f6a76a033edb98:-551339891,9c6aaa21e496d89029f1ef1b8ca0d28a:1092755182,373ae6212896d89046a00db5a1d77bff:-551339891,653aa6213596d8907a46fc7983ae13dc:1092755182,a02a6621d996d89022c6ac7295b94d3e:-551339891,f4d96eedec56d8908bcfa64e106842e1:1092755182,6e996aed5656d8902366b073e9c87061:-1558117041,a8992aedb656d89035bb598e7202d898:85978032,fb79a6edad56d890d66d3a297b857665:-1558117041,c27966eda356d89067a888b7407cc9c7:85978032,336966ed1656d890e7c880c928526a0b:-1558117041,be6926ed8a56d890f2a2087826c832c8:85978032,0b596e6d0756d8903338dd79212074cc:-1558117041,3df8e62d9056d8902fcf6f6df5e4c825:85978032,a7e72ee92456d8903220e4f6cdd8cc45:-624473039,a6476ee9f156d8900e015559d6c4ed63:414181247</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-29 15:46:59">9c9aaa21db96d89067c89cb6db961990</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:46:59</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>c687436ccc894ec4a1122c1e0d5004a1</sys_id>
+        <sys_metadata>6e476ee9db56d89067c89cb6db961961</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FAQ</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_table_6e476ee9db56d89067c89cb6db961961</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_6e476ee9db56d89067c89cb6db961961">8f8aee21db96d89067c89cb6db961901</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:46:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

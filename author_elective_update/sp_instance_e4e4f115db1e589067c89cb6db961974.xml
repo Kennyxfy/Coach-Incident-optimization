@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>8</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">97313519dbda589067c89cb6db9619ad</sp_column>
+        <sp_widget display_value="Knowledge Query Facet">72e1a6cbdb83220099f93691f0b8f549</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:13:57</sys_created_on>
+        <sys_id>e4e4f115db1e589067c89cb6db961974</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Last Modified</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_e4e4f115db1e589067c89cb6db961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 09:15:55</sys_updated_on>
+        <title>Last Modified</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"facet_id": {
+		"value": "modified",
+		"displayValue": "modified"
+	},
+	"template": {
+		"value": "kb_facet_query_template",
+		"displayValue": "Simple Query"
+	},
+	"custom_template": {
+		"value": "",
+		"displayValue": ""
+	},
+	"facet_options": {
+		"value": "[{\"label\":\"Past 2 Years\",\"id\":\"more_ago\",\"order\":5,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@2\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@2^sys_updated_onRELATIVELT@year@ago@1\"}]},{\"label\":\"Past Year\",\"id\":\"year_ago\",\"order\":4,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@1^sys_updated_onRELATIVELT@month@ago@1\"}]},{\"label\":\"Past Month\",\"id\":\"month_ago\",\"order\":3,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@month@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@month@ago@1^sys_updated_onRELATIVELT@dayofweek@ago@7\"}]},{\"label\":\"Past Week\",\"id\":\"week_ago\",\"order\":2,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@7\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@2^sys_updated_onRELATIVELT@dayofweek@ago@1\"}]},{\"label\":\"Past 24 Hours\",\"id\":\"day_ago\",\"order\":1,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\"}]}]",
+		"displayValue": "[{\"label\":\"Past 2 Years\",\"id\":\"more_ago\",\"order\":5,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@2\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@2^sys_updated_onRELATIVELT@year@ago@1\"}]},{\"label\":\"Past Year\",\"id\":\"year_ago\",\"order\":4,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@1^sys_updated_onRELATIVELT@month@ago@1\"}]},{\"label\":\"Past Month\",\"id\":\"month_ago\",\"order\":3,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@month@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@month@ago@1^sys_updated_onRELATIVELT@dayofweek@ago@7\"}]},{\"label\":\"Past Week\",\"id\":\"week_ago\",\"order\":2,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@7\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@2^sys_updated_onRELATIVELT@dayofweek@ago@1\"}]},{\"label\":\"Past 24 Hours\",\"id\":\"day_ago\",\"order\":1,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\"}]}]"
+	},
+	"min_result_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"min_scroll_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"dynamic": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"alt_url_params": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=e4e4f115db1e589067c89cb6db961974"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_e4e4f115db1e589067c89cb6db961974</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;8&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;97313519dbda589067c89cb6db9619ad&lt;/sp_column&gt;&lt;sp_widget display_value="Knowledge Query Facet"&gt;72e1a6cbdb83220099f93691f0b8f549&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-28 09:13:57&lt;/sys_created_on&gt;&lt;sys_id&gt;e4e4f115db1e589067c89cb6db961974&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Last Modified&lt;/sys_name&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_e4e4f115db1e589067c89cb6db961974&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-28 09:15:55&lt;/sys_updated_on&gt;&lt;title&gt;Last Modified&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"facet_id": {
+		"value": "modified",
+		"displayValue": "modified"
+	},
+	"template": {
+		"value": "kb_facet_query_template",
+		"displayValue": "Simple Query"
+	},
+	"custom_template": {
+		"value": "",
+		"displayValue": ""
+	},
+	"facet_options": {
+		"value": "[{\"label\":\"Past 2 Years\",\"id\":\"more_ago\",\"order\":5,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@2\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@2^sys_updated_onRELATIVELT@year@ago@1\"}]},{\"label\":\"Past Year\",\"id\":\"year_ago\",\"order\":4,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@1^sys_updated_onRELATIVELT@month@ago@1\"}]},{\"label\":\"Past Month\",\"id\":\"month_ago\",\"order\":3,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@month@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@month@ago@1^sys_updated_onRELATIVELT@dayofweek@ago@7\"}]},{\"label\":\"Past Week\",\"id\":\"week_ago\",\"order\":2,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@7\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@2^sys_updated_onRELATIVELT@dayofweek@ago@1\"}]},{\"label\":\"Past 24 Hours\",\"id\":\"day_ago\",\"order\":1,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\"}]}]",
+		"displayValue": "[{\"label\":\"Past 2 Years\",\"id\":\"more_ago\",\"order\":5,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@2\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@2^sys_updated_onRELATIVELT@year@ago@1\"}]},{\"label\":\"Past Year\",\"id\":\"year_ago\",\"order\":4,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@year@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@year@ago@1^sys_updated_onRELATIVELT@month@ago@1\"}]},{\"label\":\"Past Month\",\"id\":\"month_ago\",\"order\":3,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@month@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@month@ago@1^sys_updated_onRELATIVELT@dayofweek@ago@7\"}]},{\"label\":\"Past Week\",\"id\":\"week_ago\",\"order\":2,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@7\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@2^sys_updated_onRELATIVELT@dayofweek@ago@1\"}]},{\"label\":\"Past 24 Hours\",\"id\":\"day_ago\",\"order\":1,\"query\":[{\"table\":\"\",\"value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\",\"display_value\":\"sys_updated_onRELATIVEGT@dayofweek@ago@1\"}]}]"
+	},
+	"min_result_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"min_scroll_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"dynamic": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"alt_url_params": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e4e4f115db1e589067c89cb6db961974"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-526475873</payload_hash>
+        <record_name>Last Modified</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:15:55</sys_created_on>
+        <sys_id>dd557d15db1e589067c89cb6db9619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17394b4faa30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 09:15:55</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>95557d15151e5890bbd9b01e72b871df</update_guid>
+        <update_guid_history>95557d15151e5890bbd9b01e72b871df:-526475873,1e3571158d1e58908224fbe0e3be3244:408114366,a8e4f115eb1e58906d6dec97985cd075:2002816440</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-29 15:32:20">a937e22ddb56d89067c89cb6db961907</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:32:20</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>29a7ffbf86ed4e078f00171a9fa54559</sys_id>
+        <sys_metadata>e4e4f115db1e589067c89cb6db961974</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Last Modified</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_e4e4f115db1e589067c89cb6db961974</sys_update_name>
+        <sys_update_version display_value="sp_instance_e4e4f115db1e589067c89cb6db961974">dd557d15db1e589067c89cb6db9619df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:32:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

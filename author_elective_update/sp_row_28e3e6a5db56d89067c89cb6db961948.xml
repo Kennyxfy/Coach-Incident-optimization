@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>3</order>
+        <sp_column/>
+        <sp_container display_value="Self-Service - Container 1">70915c88db9e509099b092d8db96192d</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:17:47</sys_created_on>
+        <sys_id>28e3e6a5db56d89067c89cb6db961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_row_28e3e6a5db56d89067c89cb6db961948</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:17:47</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_row_28e3e6a5db56d89067c89cb6db961948</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>3</order><sp_column/><sp_container display_value="Self-Service - Container 1">70915c88db9e509099b092d8db96192d</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-29 07:17:47</sys_created_on><sys_id>28e3e6a5db56d89067c89cb6db961948</sys_id><sys_mod_count>0</sys_mod_count><sys_name>3</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sp_row_28e3e6a5db56d89067c89cb6db961948</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-29 07:17:47</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>-1209958146</payload_hash>
+        <record_name>3</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:17:47</sys_created_on>
+        <sys_id>60e3e6a5db56d89067c89cb6db96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173996f2fd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:17:47</sys_updated_on>
+        <type>Row</type>
+        <update_guid>68e3e6a58656d8907d0e15ee4ba71349</update_guid>
+        <update_guid_history>68e3e6a58656d8907d0e15ee4ba71349:-1209958146</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-29 15:18:07">a9f32ea5db56d89067c89cb6db9619b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:18:07</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>6200fd42371f436ab5e84c64da944a04</sys_id>
+        <sys_metadata>28e3e6a5db56d89067c89cb6db961948</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_row_28e3e6a5db56d89067c89cb6db961948</sys_update_name>
+        <sys_update_version display_value="sp_row_28e3e6a5db56d89067c89cb6db961948">60e3e6a5db56d89067c89cb6db96194a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:18:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

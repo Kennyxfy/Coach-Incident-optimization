@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>7</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">97313519dbda589067c89cb6db9619ad</sp_column>
+        <sp_widget display_value="Knowledge Query Facet">72e1a6cbdb83220099f93691f0b8f549</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:12:04</sys_created_on>
+        <sys_id>3c7479d1db1e589067c89cb6db9619e1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Rating</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_3c7479d1db1e589067c89cb6db9619e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 09:13:57</sys_updated_on>
+        <title>Rating</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"facet_id": {
+		"value": "rating",
+		"displayValue": "rating"
+	},
+	"template": {
+		"value": "kb_facet_query_rating_template",
+		"displayValue": "Rating"
+	},
+	"custom_template": {
+		"value": "",
+		"displayValue": ""
+	},
+	"facet_options": {
+		"value": "[{\"label\":\"4+ Rating\",\"id\":\"rating_5\",\"order\":5,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>4\",\"display_value\":\"rating=5\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"3+ Rating\",\"id\":\"rating_4\",\"order\":4,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>3\",\"display_value\":\"rating=4\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"2+ Rating\",\"id\":\"rating_3\",\"order\":3,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>2\",\"display_value\":\"rating=3\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"1+ Rating\",\"id\":\"rating_2\",\"order\":2,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>1\",\"display_value\":\"rating=2\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Rated\",\"id\":\"rating_1\",\"order\":1,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>0\",\"display_value\":\"rating=1\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Any Rating\",\"id\":\"rating_0\",\"order\":0,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"ratingANYTHING\",\"display_value\":\"ratingISEMPTY\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]}]",
+		"displayValue": "[{\"label\":\"4+ Rating\",\"id\":\"rating_5\",\"order\":5,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>4\",\"display_value\":\"rating=5\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"3+ Rating\",\"id\":\"rating_4\",\"order\":4,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>3\",\"display_value\":\"rating=4\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"2+ Rating\",\"id\":\"rating_3\",\"order\":3,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>2\",\"display_value\":\"rating=3\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"1+ Rating\",\"id\":\"rating_2\",\"order\":2,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>1\",\"display_value\":\"rating=2\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Rated\",\"id\":\"rating_1\",\"order\":1,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating>0\",\"display_value\":\"rating=1\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Any Rating\",\"id\":\"rating_0\",\"order\":0,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"ratingANYTHING\",\"display_value\":\"ratingISEMPTY\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]}]"
+	},
+	"min_result_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"min_scroll_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"dynamic": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"alt_url_params": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=3c7479d1db1e589067c89cb6db9619e1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_3c7479d1db1e589067c89cb6db9619e1</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;7&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;97313519dbda589067c89cb6db9619ad&lt;/sp_column&gt;&lt;sp_widget display_value="Knowledge Query Facet"&gt;72e1a6cbdb83220099f93691f0b8f549&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-28 09:12:04&lt;/sys_created_on&gt;&lt;sys_id&gt;3c7479d1db1e589067c89cb6db9619e1&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Rating&lt;/sys_name&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_3c7479d1db1e589067c89cb6db9619e1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-28 09:13:57&lt;/sys_updated_on&gt;&lt;title&gt;Rating&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"facet_id": {
+		"value": "rating",
+		"displayValue": "rating"
+	},
+	"template": {
+		"value": "kb_facet_query_rating_template",
+		"displayValue": "Rating"
+	},
+	"custom_template": {
+		"value": "",
+		"displayValue": ""
+	},
+	"facet_options": {
+		"value": "[{\"label\":\"4+ Rating\",\"id\":\"rating_5\",\"order\":5,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;4\",\"display_value\":\"rating=5\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"3+ Rating\",\"id\":\"rating_4\",\"order\":4,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;3\",\"display_value\":\"rating=4\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"2+ Rating\",\"id\":\"rating_3\",\"order\":3,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;2\",\"display_value\":\"rating=3\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"1+ Rating\",\"id\":\"rating_2\",\"order\":2,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;1\",\"display_value\":\"rating=2\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Rated\",\"id\":\"rating_1\",\"order\":1,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;0\",\"display_value\":\"rating=1\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Any Rating\",\"id\":\"rating_0\",\"order\":0,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"ratingANYTHING\",\"display_value\":\"ratingISEMPTY\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]}]",
+		"displayValue": "[{\"label\":\"4+ Rating\",\"id\":\"rating_5\",\"order\":5,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;4\",\"display_value\":\"rating=5\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"3+ Rating\",\"id\":\"rating_4\",\"order\":4,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;3\",\"display_value\":\"rating=4\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"2+ Rating\",\"id\":\"rating_3\",\"order\":3,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;2\",\"display_value\":\"rating=3\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"1+ Rating\",\"id\":\"rating_2\",\"order\":2,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;1\",\"display_value\":\"rating=2\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Rated\",\"id\":\"rating_1\",\"order\":1,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"rating&gt;0\",\"display_value\":\"rating=1\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]},{\"label\":\"Any Rating\",\"id\":\"rating_0\",\"order\":0,\"query\":[{\"table\":\"kb_knowledge\",\"value\":\"ratingANYTHING\",\"display_value\":\"ratingISEMPTY\"},{\"table\":\"kb_social_qa_question\",\"value\":\"sys_id=123321\"}]}]"
+	},
+	"min_result_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"min_scroll_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"dynamic": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"alt_url_params": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3c7479d1db1e589067c89cb6db9619e1"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1301515111</payload_hash>
+        <record_name>Rating</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 09:13:57</sys_created_on>
+        <sys_id>dce4f115db1e589067c89cb6db961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17394b32cbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 09:13:57</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>94e4f115371e589092c04c9716999872</update_guid>
+        <update_guid_history>94e4f115371e589092c04c9716999872:1301515111,2ac4b9d1e71e58909b7678bca8c464b4:-2061367832,307479d1c01e589092229959bab49ce3:-715926119</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-07-29 15:32:19">6137a22ddb56d89067c89cb6db9619f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 07:32:19</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>6e6cd845a2364c40ae9bc898413b61c9</sys_id>
+        <sys_metadata>3c7479d1db1e589067c89cb6db9619e1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rating</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_3c7479d1db1e589067c89cb6db9619e1</sys_update_name>
+        <sys_update_version display_value="sp_instance_3c7479d1db1e589067c89cb6db9619e1">dce4f115db1e589067c89cb6db961972</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 07:32:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
