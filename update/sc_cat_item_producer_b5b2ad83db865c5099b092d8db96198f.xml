@@ -54,21 +54,21 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script/>
-        <short_description>Please confirm with store user which PC need the USB Hub(Normally, Till 0 is the main Till to use this USB HUB).</short_description>
+        <short_description/>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-21 08:09:13</sys_created_on>
         <sys_id>b5b2ad83db865c5099b092d8db96198f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>USB hub issue</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sc_cat_item_producer_b5b2ad83db865c5099b092d8db96198f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-22 03:42:57</sys_updated_on>
+        <sys_updated_on>2020-07-30 03:23:11</sys_updated_on>
         <table_name>incident</table_name>
         <template display_value="USB hub issue">bc4fe193dbca9c5099b092d8db961908</template>
         <type>item</type>
