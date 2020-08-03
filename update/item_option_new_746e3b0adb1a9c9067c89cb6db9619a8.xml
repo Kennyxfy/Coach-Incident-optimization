@@ -2,11 +2,11 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Store AD account unlocked or reset the PWD">2d812903db865c5099b092d8db9619b9</cat_item>
+        <cat_item display_value="FE password reset and account unlocked">08cd510fdb465c5099b092d8db96195e</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field>u_key_choice</choice_field>
-        <choice_table>incident</choice_table>
+        <choice_field/>
+        <choice_table/>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -18,11 +18,11 @@
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <example_text/>
-        <field>u_key_choice</field>
+        <field>u_contactperson</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <include_none>true</include_none>
+        <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
@@ -36,11 +36,11 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>u_key_choice</name>
-        <order>200</order>
+        <name>u_contactperson</name>
+        <order>100</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Reset/Unlock</question_text>
+        <question_text>Contact Person</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -57,19 +57,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-07-22 03:26:21</sys_created_on>
-        <sys_id>ea7ba9dbdb8a9c5099b092d8db961919</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Reset/Unlock</sys_name>
+        <sys_created_on>2020-07-31 03:10:32</sys_created_on>
+        <sys_id>746e3b0adb1a9c9067c89cb6db9619a8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Contact Person</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
-        <sys_update_name>item_option_new_ea7ba9dbdb8a9c5099b092d8db961919</sys_update_name>
+        <sys_update_name>item_option_new_746e3b0adb1a9c9067c89cb6db9619a8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-31 03:13:24</sys_updated_on>
+        <sys_updated_on>2020-07-31 04:19:48</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>6</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
@@ -84,22 +84,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=ea7ba9dbdb8a9c5099b092d8db961919"/>
-    <fx_price action="delete_multiple" query="id=ea7ba9dbdb8a9c5099b092d8db961919"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=746e3b0adb1a9c9067c89cb6db9619a8"/>
+    <fx_price action="delete_multiple" query="id=746e3b0adb1a9c9067c89cb6db9619a8"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="CNY">CNY</currency>
         <field>price_if_checked</field>
-        <id>ea7ba9dbdb8a9c5099b092d8db961919</id>
+        <id>746e3b0adb1a9c9067c89cb6db9619a8</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-07-22 03:26:21</sys_created_on>
-        <sys_id>06cbe51fdb8a9c5099b092d8db96197f</sys_id>
+        <sys_created_on>2020-07-31 03:10:32</sys_created_on>
+        <sys_id>567effc6db1a9c9067c89cb6db96196b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-22 03:26:21</sys_updated_on>
+        <sys_updated_on>2020-07-31 03:10:32</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -107,16 +107,16 @@
         <amount>0</amount>
         <currency display_value="CNY">CNY</currency>
         <field>rec_price_if_checked</field>
-        <id>ea7ba9dbdb8a9c5099b092d8db961919</id>
+        <id>746e3b0adb1a9c9067c89cb6db9619a8</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-07-22 03:26:21</sys_created_on>
-        <sys_id>c6cb2d9bdb8a9c5099b092d8db96197b</sys_id>
+        <sys_created_on>2020-07-31 03:10:32</sys_created_on>
+        <sys_id>1e7effc6db1a9c9067c89cb6db96196a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-22 03:26:21</sys_updated_on>
+        <sys_updated_on>2020-07-31 03:10:32</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
