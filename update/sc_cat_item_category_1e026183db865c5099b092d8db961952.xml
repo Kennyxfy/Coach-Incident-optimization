@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="For CN region, it was called WeClientell and we just need to reset the PWD">bfd16943db865c5099b092d8db961999</sc_cat_item>
+        <sc_cat_item display_value="WeClientell PWD reset(for CN region)">bfd16943db865c5099b092d8db961999</sc_cat_item>
         <sc_category display_value="Self Service">c35fd50fdb465c5099b092d8db961983</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>

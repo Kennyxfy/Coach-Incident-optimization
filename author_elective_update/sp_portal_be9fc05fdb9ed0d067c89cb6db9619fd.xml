@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="self_service">8b2325c3db865c5099b092d8db9619f2</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 06:59:56</sys_created_on>
+        <sys_id>be9fc05fdb9ed0d067c89cb6db9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>自助服务</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_portal_be9fc05fdb9ed0d067c89cb6db9619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 06:59:56</sys_updated_on>
+        <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
+        <title>自助服务</title>
+        <ts_index_group/>
+        <url_suffix>cn</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=be9fc05fdb9ed0d067c89cb6db9619fd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_portal_be9fc05fdb9ed0d067c89cb6db9619fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><hide_portal_name>false</hide_portal_name><homepage display_value="self_service">8b2325c3db865c5099b092d8db9619f2</homepage><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page><logo/><notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><sp_chat_queue/><sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu><sqanda_knowledge_base/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-03 06:59:56</sys_created_on><sys_id>be9fc05fdb9ed0d067c89cb6db9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>自助服务</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sp_portal_be9fc05fdb9ed0d067c89cb6db9619fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-03 06:59:56</sys_updated_on><theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme><title>自助服务</title><ts_index_group/><url_suffix>cn</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=be9fc05fdb9ed0d067c89cb6db9619fd"/></record_update>]]></payload>
+        <payload_hash>-1451960981</payload_hash>
+        <record_name>自助服务</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 06:59:57</sys_created_on>
+        <sys_id>4ccf085fdb9ed0d067c89cb6db961922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b31ea6190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 06:59:57</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>44cf085f579ed0d0190ee1af60c49f22</update_guid>
+        <update_guid_history>44cf085f579ed0d0190ee1af60c49f22:-1451960981</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-03 15:01:39">c520509fdb9ed0d067c89cb6db961991</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 07:01:39</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>1303259dc2c44a6a82fbb5738011d044</sys_id>
+        <sys_metadata>be9fc05fdb9ed0d067c89cb6db9619fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>自助服务</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_portal_be9fc05fdb9ed0d067c89cb6db9619fd</sys_update_name>
+        <sys_update_version display_value="sp_portal_be9fc05fdb9ed0d067c89cb6db9619fd">4ccf085fdb9ed0d067c89cb6db961922</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 07:01:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

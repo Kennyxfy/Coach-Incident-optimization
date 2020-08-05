@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <key>Please let us know if any difficulities for you to finish the test above, thanks a lot.</key>
+        <language>zh</language>
+        <message>如果在完成上述的测试过程中存在问题，请及时告知我们，非常感谢&#13;
+</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 05:58:35</sys_created_on>
+        <sys_id>4f3b0d2bdb5a54d067c89cb6db961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Please let us know if any difficulities for you to finish the test above, thanks a lot.</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sys_ui_message_4f3b0d2bdb5a54d067c89cb6db961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 05:58:35</sys_updated_on>
+    </sys_ui_message>
+</record_update>

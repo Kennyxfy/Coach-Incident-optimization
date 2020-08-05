@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="For CN region, it was called WeClientell and we just need to reset the PWD">bfd16943db865c5099b092d8db961999</cat_item>
+        <cat_item display_value="WeClientell PWD reset(for CN region)">bfd16943db865c5099b092d8db961999</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -17,11 +17,11 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <example_text/>
+        <example_text>Password length cannot be less than 8 bits</example_text>
         <field>u_new_password</field>
         <global>false</global>
         <help_tag>More information</help_tag>
-        <help_text>密码长度不能低于8位/密碼長度不能低於8比特/Password length cannot be less than 8 bits/비밀번호 길이 가 8 자리 보다 낮 으 면 안 됩 니 다./パスワードの長さは8桁を下回ってはいけません。</help_text>
+        <help_text/>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -51,22 +51,22 @@
         <reference_qual_condition/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
-        <show_help>true</show_help>
-        <show_help_on_load>true</show_help_on_load>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-31 03:45:14</sys_created_on>
         <sys_id>20364cd2db5a9c9067c89cb6db961988</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>New Password</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>item_option_new_20364cd2db5a9c9067c89cb6db961988</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-03 02:09:06</sys_updated_on>
+        <sys_updated_on>2020-08-04 08:22:37</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

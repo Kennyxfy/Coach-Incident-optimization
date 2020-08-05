@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <key>Did you try to cross-check by switching the mul-function set to another till but the issue still exist?</key>
+        <language>ko</language>
+        <message>물 기능 세트를 다른 기능으로 전환하여 교차 확인하려고 했는데, 문제가 여전히 존재하나요?&#13;
+</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 05:57:16</sys_created_on>
+        <sys_id>1cfa052bdb5a54d067c89cb6db961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Did you try to cross-check by switching the mul-function set to another till but the issue still exist?</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sys_ui_message_1cfa052bdb5a54d067c89cb6db961963</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 05:57:16</sys_updated_on>
+    </sys_ui_message>
+</record_update>

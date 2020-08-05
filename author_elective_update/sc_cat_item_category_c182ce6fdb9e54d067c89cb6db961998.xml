@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="HHT系统个人工号密码重置">8182ca6fdb9e54d067c89cb6db9619c8</sc_cat_item>
+        <sc_category display_value="自助服务">49349927db9a54d067c89cb6db961977</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 09:59:51</sys_created_on>
+        <sys_id>c182ce6fdb9e54d067c89cb6db961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>自助服务.HHT系统个人工号密码重置</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sc_cat_item_category_c182ce6fdb9e54d067c89cb6db961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 09:59:51</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sc_cat_item_category_c182ce6fdb9e54d067c89cb6db961998</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="HHT系统个人工号密码重置">8182ca6fdb9e54d067c89cb6db9619c8</sc_cat_item><sc_category display_value="自助服务">49349927db9a54d067c89cb6db961977</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-04 09:59:51</sys_created_on><sys_id>c182ce6fdb9e54d067c89cb6db961998</sys_id><sys_mod_count>0</sys_mod_count><sys_name>自助服务.HHT系统个人工号密码重置</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sc_cat_item_category_c182ce6fdb9e54d067c89cb6db961998</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-04 09:59:51</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>148675430</payload_hash>
+        <record_name>自助服务.HHT系统个人工号密码重置</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 09:59:51</sys_created_on>
+        <sys_id>0982ce6fdb9e54d067c89cb6db96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b8e9b8d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 09:59:51</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>0182ce6f749e54d0f54ce2cfa25bc09a</update_guid>
+        <update_guid_history>0182ce6f749e54d0f54ce2cfa25bc09a:148675430</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-04 18:00:23">0da246afdb9e54d067c89cb6db96196e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 10:00:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>056bfa900e8246c4bc42aca174f80a90</sys_id>
+        <sys_metadata>c182ce6fdb9e54d067c89cb6db961998</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>自助服务.HHT系统个人工号密码重置</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent display_value="HHT系統個人工號密碼重置">8182ca6fdb9e54d067c89cb6db9619c8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_c182ce6fdb9e54d067c89cb6db961998</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_c182ce6fdb9e54d067c89cb6db961998">0982ce6fdb9e54d067c89cb6db96199a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 10:00:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

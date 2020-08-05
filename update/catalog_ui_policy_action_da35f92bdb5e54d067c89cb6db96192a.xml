@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.">44fced6bdb1e54d067c89cb6db961911</catalog_item>
+        <catalog_variable>IO:6df471e7db5e54d067c89cb6db96192e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 09:01:53</sys_created_on>
+        <sys_id>da35f92bdb5e54d067c89cb6db96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_da35f92bdb5e54d067c89cb6db96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 09:01:53</sys_updated_on>
+        <table/>
+        <ui_policy display_value="hide 중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.">062535e7db5e54d067c89cb6db9619cf</ui_policy>
+        <variable>short_description</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

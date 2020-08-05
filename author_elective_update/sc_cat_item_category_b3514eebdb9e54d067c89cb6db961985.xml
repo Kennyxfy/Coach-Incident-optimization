@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Store AD account unlocked or reset the PWD">77514eebdb9e54d067c89cb6db96197f</sc_cat_item>
+        <sc_category display_value="Self Service">c35fd50fdb465c5099b092d8db961983</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 09:54:51</sys_created_on>
+        <sys_id>b3514eebdb9e54d067c89cb6db961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Self Service.Store AD account unlocked or reset the PWD</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sc_cat_item_category_b3514eebdb9e54d067c89cb6db961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 09:54:51</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sc_cat_item_category_b3514eebdb9e54d067c89cb6db961985</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Store AD account unlocked or reset the PWD">77514eebdb9e54d067c89cb6db96197f</sc_cat_item><sc_category display_value="Self Service">c35fd50fdb465c5099b092d8db961983</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-04 09:54:51</sys_created_on><sys_id>b3514eebdb9e54d067c89cb6db961985</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Self Service.Store AD account unlocked or reset the PWD</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sc_cat_item_category_b3514eebdb9e54d067c89cb6db961985</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-04 09:54:51</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1057145202</payload_hash>
+        <record_name>Self Service.Store AD account unlocked or reset the PWD</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 09:54:51</sys_created_on>
+        <sys_id>7b514eebdb9e54d067c89cb6db961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b8e524a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 09:54:51</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>73514eeb569e54d09087435373b38287</update_guid>
+        <update_guid_history>73514eeb569e54d09087435373b38287:-1057145202</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-04 17:55:28">fc81c22fdb9e54d067c89cb6db961906</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 09:55:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>89cc1db42a3d42d1b79122b1307cd6e1</sys_id>
+        <sys_metadata>b3514eebdb9e54d067c89cb6db961985</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Self Service.Store AD account unlocked or reset the PWD</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent display_value="店铺账号解锁和重置密码">77514eebdb9e54d067c89cb6db96197f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b3514eebdb9e54d067c89cb6db961985</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b3514eebdb9e54d067c89cb6db961985">7b514eebdb9e54d067c89cb6db961987</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 09:55:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

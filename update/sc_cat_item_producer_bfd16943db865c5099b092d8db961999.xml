@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
     <sc_cat_item_producer action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
@@ -26,7 +26,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>For CN region, it was called WeClientell and we just need to reset the PWD</name>
+        <name>WeClientell PWD reset(for CN region)</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -61,14 +61,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-21 08:05:17</sys_created_on>
         <sys_id>bfd16943db865c5099b092d8db961999</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_name>For CN region, it was called WeClientell and we just need to reset the PWD</sys_name>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>WeClientell PWD reset(for CN region)</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sc_cat_item_producer_bfd16943db865c5099b092d8db961999</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 02:09:49</sys_updated_on>
+        <sys_updated_on>2020-08-04 09:51:34</sys_updated_on>
         <table_name>incident</table_name>
         <template display_value="For CN region, it was called WeClientell">2d9ef191db5e589067c89cb6db96193f</template>
         <type>item</type>

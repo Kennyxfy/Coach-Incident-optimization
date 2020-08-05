@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="HHT 개인 ID 비밀번호를 재설정">22e2ce6fdb9e54d067c89cb6db9619a2</catalog_item>
+        <catalog_variable>IO:cf4de97bdb1e1010b80d5843f396194d</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 03:06:43</sys_created_on>
+        <sys_id>ed8d29bbdb1e1010b80d5843f39619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ed8d29bbdb1e1010b80d5843f39619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 03:06:43</sys_updated_on>
+        <table/>
+        <ui_policy display_value="hide HHT 개인 ID 비밀번호를 재설정">787d2d7bdb1e1010b80d5843f3961953</ui_policy>
+        <variable>short_description</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

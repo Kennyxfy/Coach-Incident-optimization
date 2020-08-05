@@ -20,7 +20,7 @@
         <script><![CDATA[function onSubmit() {
     g_form.clearMessages();
     if (g_form.getValue("u_new_password").trim().length < 8) {
-        g_form.addErrorMessage("密码长度不能低于8位/密碼長度不能低於8比特/Password length cannot be less than 8 bits/비밀번호 길이 가 8 자리 보다 낮 으 면 안 됩 니 다./パスワードの長さは8桁を下回ってはいけません。");
+        g_form.addErrorMessage("Password length cannot be less than 8 bits/密码长度不能少于8个字符/密碼長度不能少於8位/パスワードは８文字以上必要がございます/비밀번호 길이는 8비트보다 작을 수 없음");
         return false;
     } else {
         g_form.clearMessages();
@@ -33,15 +33,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ca111d12db12dc9067c89cb6db9619f4</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>ValidationNewPasswordAtSubmit</sys_name>
         <sys_overrides/>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>catalog_script_client_ca111d12db12dc9067c89cb6db9619f4</sys_update_name>
-        <sys_updated_by>hunan</sys_updated_by>
-        <sys_updated_on>2020-08-03 02:23:44</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 03:20:02</sys_updated_on>
         <table/>
         <type>onSubmit</type>
         <ui_type>10</ui_type>
