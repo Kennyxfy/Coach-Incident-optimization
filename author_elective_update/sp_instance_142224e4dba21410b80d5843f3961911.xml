@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>.input-group {
+  margin-bottom: 25px;
+}
+
+input, button {
+  background-color: rgba(138, 143, 160, 0.6);
+  color:#fff !important;
+  font-weight: 300;
+  border-color:rgba(255, 255, 255, 0.3);
+}
+
+input::-webkit-input-placeholder {
+  color: #fff !important;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+  color: #fff !important;  
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+  color: #fff !important;  
+}
+
+input:-ms-input-placeholder {  
+  color: #fff !important;  
+}</css>
+        <glyph>search</glyph>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="2">942224e4dba21410b80d5843f396190f</sp_column>
+        <sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:32:40</sys_created_on>
+        <sys_id>142224e4dba21410b80d5843f3961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search the knowledge base</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_142224e4dba21410b80d5843f3961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 05:32:40</sys_updated_on>
+        <title>Search the knowledge base</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=142224e4dba21410b80d5843f3961911"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_142224e4dba21410b80d5843f3961911</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css>.input-group {
+  margin-bottom: 25px;
+}
+
+input, button {
+  background-color: rgba(138, 143, 160, 0.6);
+  color:#fff !important;
+  font-weight: 300;
+  border-color:rgba(255, 255, 255, 0.3);
+}
+
+input::-webkit-input-placeholder {
+  color: #fff !important;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+  color: #fff !important;  
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+  color: #fff !important;  
+}
+
+input:-ms-input-placeholder {  
+  color: #fff !important;  
+}</css><glyph>search</glyph><id/><order>0</order><roles/><short_description/><size>lg</size><sp_column display_value="2">942224e4dba21410b80d5843f396190f</sp_column><sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-07 05:32:40</sys_created_on><sys_id>142224e4dba21410b80d5843f3961911</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Search the knowledge base</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sp_instance_142224e4dba21410b80d5843f3961911</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-07 05:32:40</sys_updated_on><title>Search the knowledge base</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=142224e4dba21410b80d5843f3961911"/></record_update>]]></payload>
+        <payload_hash>-8265909</payload_hash>
+        <record_name>Search the knowledge base</record_name>
+        <reverted_from/>
+        <source>6d5190ecdb221410b80d5843f3961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:32:40</sys_created_on>
+        <sys_id>182224e4dba21410b80d5843f396191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173c7682f0a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 05:32:40</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>102224e4e5a214106d0ff4f50ea97f1f</update_guid>
+        <update_guid_history>102224e4e5a214106d0ff4f50ea97f1f:-8265909</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-07 13:47:01">6a656ce8dba21410b80d5843f3961993</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:47:01</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>240dc007d9d84fb0b8a9e208cb87d5a4</sys_id>
+        <sys_metadata>142224e4dba21410b80d5843f3961911</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search the knowledge base</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_142224e4dba21410b80d5843f3961911</sys_update_name>
+        <sys_update_version display_value="sp_instance_142224e4dba21410b80d5843f3961911">182224e4dba21410b80d5843f396191f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 05:47:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

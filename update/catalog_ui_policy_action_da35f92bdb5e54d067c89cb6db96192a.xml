@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.">44fced6bdb1e54d067c89cb6db961911</catalog_item>
+        <catalog_item/>
         <catalog_variable>IO:6df471e7db5e54d067c89cb6db96192e</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

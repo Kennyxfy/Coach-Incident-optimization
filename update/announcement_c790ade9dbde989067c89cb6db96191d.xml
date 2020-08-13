@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
     <announcement action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <click_target/>
         <details/>
         <details_link_text/>
@@ -26,14 +26,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 02:24:55</sys_created_on>
         <sys_id>c790ade9dbde989067c89cb6db96191d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>news2</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>announcement_c790ade9dbde989067c89cb6db96191d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 05:07:23</sys_updated_on>
+        <sys_updated_on>2020-08-10 07:13:08</sys_updated_on>
         <title>第二个通知 第二个通知</title>
         <to>2020-08-01 02:24:23</to>
         <type>67eaf134e7a3320075c2a117c2f6a9d2</type>

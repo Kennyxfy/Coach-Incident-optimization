@@ -26,7 +26,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>HHT系统个人工号密码重置</name>
+        <name>HHT系统个人账户密码重置</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -61,14 +61,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-04 09:59:16</sys_created_on>
         <sys_id>2462c66fdb9e54d067c89cb6db9619e0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>HHT系统个人工号密码重置</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>HHT系统个人账户密码重置</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sc_cat_item_producer_2462c66fdb9e54d067c89cb6db9619e0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-04 09:59:44</sys_updated_on>
+        <sys_updated_on>2020-08-12 02:46:31</sys_updated_on>
         <table_name>incident</table_name>
         <template display_value="HHT Personal ID PWD reset">6c2bb55ddb1e589067c89cb6db96191f</template>
         <type>item</type>

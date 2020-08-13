@@ -7,7 +7,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:5cf70be9db1ad89067c89cb6db961918ISNOTEMPTY^EQ</catalog_conditions>
-        <catalog_item display_value="USB hub issue">b5b2ad83db865c5099b092d8db96198f</catalog_item>
+        <catalog_item/>
         <conditions/>
         <description/>
         <global>true</global>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="WeClientell的密码重置(仅供CN地区)">396c656bdb1e54d067c89cb6db961975</sc_cat_item>
+        <sc_cat_item display_value="WeClientell账户密码重置">396c656bdb1e54d067c89cb6db961975</sc_cat_item>
         <sc_category display_value="自助服务">49349927db9a54d067c89cb6db961977</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>

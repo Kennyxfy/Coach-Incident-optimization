@@ -7,7 +7,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="HHT 個人IDのパスワードリセット">f203ce6fdb9e54d067c89cb6db96197a</cat_item>
+        <cat_item display_value="HHTシステムで、個人アカウントのパスワード変更">f203ce6fdb9e54d067c89cb6db96197a</cat_item>
         <cat_variable>IO:40850c92db5a9c9067c89cb6db961919</cat_variable>
         <condition/>
         <description/>

@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="USB Hub問題">761911a7db9a54d067c89cb6db961962</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -52,21 +52,21 @@
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
         <show_help>true</show_help>
-        <show_help_on_load>false</show_help_on_load>
+        <show_help_on_load>true</show_help_on_load>
         <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-04 07:17:11</sys_created_on>
         <sys_id>6eec1d63dbda54d067c89cb6db9619a0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>請在下方描述您的問題</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>item_option_new_6eec1d63dbda54d067c89cb6db9619a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-04 07:31:58</sys_updated_on>
+        <sys_updated_on>2020-08-10 05:30:46</sys_updated_on>
         <table/>
         <tooltip/>
         <type>2</type>

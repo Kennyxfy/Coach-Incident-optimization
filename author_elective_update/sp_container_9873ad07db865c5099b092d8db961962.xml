@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Self-Service - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="self_service">8b2325c3db865c5099b092d8db9619f2</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 08:11:25</sys_created_on>
+        <sys_id>9873ad07db865c5099b092d8db961962</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Self-Service - Container 2</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_container_9873ad07db865c5099b092d8db961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 04:48:52</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_container_9873ad07db865c5099b092d8db961962</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Self-Service - Container 2</name><order>2</order><sp_page display_value="self_service">8b2325c3db865c5099b092d8db9619f2</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 08:11:25</sys_created_on><sys_id>9873ad07db865c5099b092d8db961962</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Self-Service - Container 2</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sp_container_9873ad07db865c5099b092d8db961962</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-24 04:48:52</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>351744733</payload_hash>
+        <record_name>Self-Service - Container 2</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 04:48:52</sys_created_on>
+        <sys_id>96d11c88db9e509099b092d8db961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1737f270c3e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 04:48:52</sys_updated_on>
+        <type>Container</type>
+        <update_guid>5ed11c88259e5090620a44db77810557</update_guid>
+        <update_guid_history>5ed11c88259e5090620a44db77810557:351744733,f0915c88fe9e50902601f74be45c8435:2105404444,1c73ad07f2865c50b771b3fcd0a89a63:351744733</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-07 13:55:38">f46728acdba21410b80d5843f3961977</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:55:38</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>31229bb9fbd844c4932799c26dfbc669</sys_id>
+        <sys_metadata>9873ad07db865c5099b092d8db961962</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Self-Service - Container 2</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_container_9873ad07db865c5099b092d8db961962</sys_update_name>
+        <sys_update_version display_value="sp_container_9873ad07db865c5099b092d8db961962">96d11c88db9e509099b092d8db961958</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 05:55:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="USBハブ障害">04c9116fdb9a54d067c89cb6db961911</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="4">2d972cacdba21410b80d5843f39619b0</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:56:31</sys_created_on>
+        <sys_id>e9972cacdba21410b80d5843f39619b2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>USBハブ障害</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_link_e9972cacdba21410b80d5843f39619b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 06:36:42</sys_updated_on>
+        <title>USBハブ障害</title>
+        <type>sc_cat_item</type>
+        <url>https://tapestryasiadev.service-now.com/ss?id=sc_cat_item&amp;sys_id=b5b2ad83db865c5099b092d8db96198f&amp;sysparm_category=c35fd50fdb465c5099b092d8db961983</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=e9972cacdba21410b80d5843f39619b2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_link_e9972cacdba21410b80d5843f39619b2</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="USBハブ障害"&gt;04c9116fdb9a54d067c89cb6db961911&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="4"&gt;2d972cacdba21410b80d5843f39619b0&lt;/sp_column&gt;&lt;sp_page display_value="sc_cat_item"&gt;9f12251147132100ba13a5554ee490f4&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-08-07 05:56:31&lt;/sys_created_on&gt;&lt;sys_id&gt;e9972cacdba21410b80d5843f39619b2&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;USBハブ障害&lt;/sys_name&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_e9972cacdba21410b80d5843f39619b2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-08-07 06:36:42&lt;/sys_updated_on&gt;&lt;title&gt;USBハブ障害&lt;/title&gt;&lt;type&gt;sc_cat_item&lt;/type&gt;&lt;url&gt;https://tapestryasiadev.service-now.com/ss?id=sc_cat_item&amp;amp;sys_id=b5b2ad83db865c5099b092d8db96198f&amp;amp;sysparm_category=c35fd50fdb465c5099b092d8db961983&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e9972cacdba21410b80d5843f39619b2"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-988673269</payload_hash>
+        <record_name>USBハブ障害</record_name>
+        <reverted_from/>
+        <source>6d5190ecdb221410b80d5843f3961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 06:36:42</sys_created_on>
+        <sys_id>9ac03ce8dbe21410b80d5843f39619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173c7a2cdf40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 06:36:42</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>52c03ce858e214100fdb7e9b883595e4</update_guid>
+        <update_guid_history>52c03ce858e214100fdb7e9b883595e4:-988673269,2f7ce064d2e214106ec4ddefa0d2c6f6:404703935,ad972cacfda214108a701180d458b2b3:-1158574013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-12 10:33:19">4a09ad8adbeed810b80d5843f396192a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 02:33:19</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>7e10bcfc07e347fcae037a0b05aa8589</sys_id>
+        <sys_metadata>e9972cacdba21410b80d5843f39619b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>USBハブ障害</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_link_e9972cacdba21410b80d5843f39619b2</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_e9972cacdba21410b80d5843f39619b2">9ac03ce8dbe21410b80d5843f39619e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 02:33:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

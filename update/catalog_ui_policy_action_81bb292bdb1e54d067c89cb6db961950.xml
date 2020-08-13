@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="WeClientell PWD reset(for CN region)">bfd16943db865c5099b092d8db961999</catalog_item>
+        <catalog_item/>
         <catalog_variable>IO:d5f50b25db1ad89067c89cb6db9619a2</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

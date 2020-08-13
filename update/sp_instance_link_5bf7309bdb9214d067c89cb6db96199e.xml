@@ -22,17 +22,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-03 09:55:46</sys_created_on>
         <sys_id>5bf7309bdb9214d067c89cb6db96199e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>常問問題</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sp_instance_link_5bf7309bdb9214d067c89cb6db96199e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-04 06:33:16</sys_updated_on>
+        <sys_updated_on>2020-08-10 09:01:47</sys_updated_on>
         <title>常問問題</title>
         <type>url</type>
-        <url>https://tapestryasiadev.service-now.com/ss?id=kb_category&amp;kb_category=8d2d51d1db9a589067c89cb6db961965&amp;kb_id=796c1591db9a589067c89cb6db961983</url>
+        <url>https://tapestryasiadev.service-now.com/tc?kb_id=67c36021dba25810b80d5843f396193c&amp;id=kb_category&amp;kb_category=ac646c21dba25810b80d5843f39619f6</url>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "Circle Icon",

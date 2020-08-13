@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">29ffe216dbaa5c10b80d5843f39619b6</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 02:13:40</sys_created_on>
+        <sys_id>c6842906dbeed810b80d5843f39619e9</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_c6842906dbeed810b80d5843f39619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-13 02:22:57</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h5 data-mce-style=\"text-align: center;\" style=\"text-align: center;\">문제가 셀프 서비스 범위에 속하지 않으면 080-080-6327번호로 전화를 거십시오</h5><h5 data-mce-style=\"text-align: center;\" style=\"text-align: center;\">PRC（中国大陆）: 400-098-7622<br>HongKong（中国香港）: 852-35526325<br>Macau（中国澳门）:852-35526326<br>Taiwan（中国台湾）:0800-218-668<br>Singapore:800-188-5243<br>Malaysia:00800-1888-5242<br>Kate Spade Japan（日本）:0800-080-5356<br>Coach Japan（日本）: 080-0919-7947<br>Korea（한국.）:080-080-6327</h5><p><br data-mce-bogus=\"1\"></p>",
+		"displayValue": "<h5 style=\"text-align: center;\">문제가 셀프 서비스 범위에 속하지 않으면 080-080-6327번호로 전화를 거십시오</h5>\n<h5 style=\"text-align: center;\">PRC（中国大陆）: 400-098-7622<br />HongKong（中国香港）: 852-35526325<br />Macau（中国澳门）:852-35526326<br />Taiwan（中国台湾）:0800-218-668<br />Singapore:800-188-5243<br />Malaysia:00800-1888-5242<br />Kate Spade Japan（日本）:0800-080-5356<br />Coach Japan（日本）: 080-0919-7947<br />Korea（한국.）:080-080-6327</h5>\n<p>&nbsp;</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c6842906dbeed810b80d5843f39619e9"/>
+</record_update>

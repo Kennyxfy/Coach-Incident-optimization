@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="HHT系统个人工号密码重置">2462c66fdb9e54d067c89cb6db9619e0</catalog_item>
+        <catalog_item display_value="HHT系统个人账户密码重置">2462c66fdb9e54d067c89cb6db9619e0</catalog_item>
         <catalog_variable>IO:d66b6df3db1e1010b80d5843f3961913</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="WeClientell PWD重置（用於CN地區）">e1bc656bdb1e54d067c89cb6db961990</catalog_item>
+        <catalog_item/>
         <catalog_variable>IO:41737d67db5e54d067c89cb6db961937</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

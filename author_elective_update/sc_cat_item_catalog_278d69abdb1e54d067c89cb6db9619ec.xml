@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.">e38d69abdb1e54d067c89cb6db9619e9</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 08:28:16</sys_created_on>
+        <sys_id>278d69abdb1e54d067c89cb6db9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_278d69abdb1e54d067c89cb6db9619ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 08:28:16</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sc_cat_item_catalog_278d69abdb1e54d067c89cb6db9619ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.">e38d69abdb1e54d067c89cb6db9619e9</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-04 08:28:16</sys_created_on><sys_id>278d69abdb1e54d067c89cb6db9619ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sc_cat_item_catalog_278d69abdb1e54d067c89cb6db9619ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-04 08:28:16</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-355601133</payload_hash>
+        <record_name>Service Catalog.중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-04 08:28:16</sys_created_on>
+        <sys_id>238de5ebdb1e54d067c89cb6db9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173b895df3a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-04 08:28:16</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>2b8de5ebf61e54d0bc68fbf7c26f51a1</update_guid>
+        <update_guid_history>2b8de5ebf61e54d0bc68fbf7c26f51a1:-355601133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-12 19:05:32">454ed74edb6a1c10b80d5843f39619c7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 11:05:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>8bc94edc543b4f199bfc8bf28d91a1f9</sys_id>
+        <sys_metadata>278d69abdb1e54d067c89cb6db9619ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent display_value="">e38d69abdb1e54d067c89cb6db9619e9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_278d69abdb1e54d067c89cb6db9619ec</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_278d69abdb1e54d067c89cb6db9619ec">238de5ebdb1e54d067c89cb6db9619a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 11:05:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

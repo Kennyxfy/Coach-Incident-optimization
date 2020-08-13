@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="프런트엔드 비밀번호가 재설정되고 계정이 잠금 해제됨">6797392fdb5e54d067c89cb6db961989</sc_cat_item>
+        <sc_cat_item display_value="CS2000 계정 해제 및 비번 재 설정">6797392fdb5e54d067c89cb6db961989</sc_cat_item>
         <sc_category display_value="셀프 서비스">4c74dd67db9a54d067c89cb6db96193c</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>

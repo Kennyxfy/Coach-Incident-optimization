@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="HHT 개인 ID 비밀번호를 재설정">22e2ce6fdb9e54d067c89cb6db9619a2</catalog_item>
+        <catalog_item display_value="HHT시스템 개인 계정 비번 재 설정">22e2ce6fdb9e54d067c89cb6db9619a2</catalog_item>
         <catalog_variable>IO:cf4de97bdb1e1010b80d5843f396194d</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

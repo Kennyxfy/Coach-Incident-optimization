@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="店铺账号解锁和重置密码">77514eebdb9e54d067c89cb6db96197f</cat_item>
+        <cat_item display_value="邮箱账号解锁和重置密码">77514eebdb9e54d067c89cb6db96197f</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -40,7 +40,7 @@
         <order>400</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>请提供店铺的账号</question_text>
+        <question_text>请提供邮箱地址</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -59,17 +59,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-05 02:12:07</sys_created_on>
         <sys_id>82d0a5f7dbda1010b80d5843f39619c3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>请提供店铺的账号</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>请提供邮箱地址</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>item_option_new_82d0a5f7dbda1010b80d5843f39619c3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-05 02:12:07</sys_updated_on>
+        <sys_updated_on>2020-08-12 02:57:18</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>

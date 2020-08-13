@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <active>false</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>WeClientell PWD reset(for CN region)</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=bfd16943db865c5099b092d8db961999&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 08:05:17</sys_created_on>
+        <sys_id>bfd16943db865c5099b092d8db961999</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>WeClientell PWD reset(for CN region)</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sc_cat_item_producer_bfd16943db865c5099b092d8db961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 11:12:50</sys_updated_on>
+        <table_name>incident</table_name>
+        <template display_value="For CN region, it was called WeClientell">2d9ef191db5e589067c89cb6db96193f</template>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view>cn</view>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=bfd16943db865c5099b092d8db961999"/>
+    <fx_price action="DELETE" query="id=bfd16943db865c5099b092d8db961999"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="CNY">CNY</currency>
+        <field>price</field>
+        <id>bfd16943db865c5099b092d8db961999</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 08:05:17</sys_created_on>
+        <sys_id>5602ad8fdb465c5099b092d8db961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 08:05:17</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="CNY">CNY</currency>
+        <field>recurring_price</field>
+        <id>bfd16943db865c5099b092d8db961999</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-21 08:05:17</sys_created_on>
+        <sys_id>9e02ad8fdb465c5099b092d8db961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-21 08:05:17</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sc_cat_item_producer_bfd16943db865c5099b092d8db961999</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer"><sc_cat_item_producer action="INSERT_OR_UPDATE"><active>false</active><availability>on_desktop</availability><billable>false</billable><can_cancel>false</can_cancel><category/><cost>0</cost><custom_cart/><delivery_plan/><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><group/><hide_sp>false</hide_sp><icon/><ignore_price>false</ignore_price><image/><list_price>0</list_price><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>WeClientell PWD reset(for CN region)</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><picture/><post_insert_script/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=bfd16943db865c5099b092d8db961999&amp;sysparm_preview=true", "summary");</preview><price>0</price><recurring_frequency/><recurring_price>0</recurring_price><redirect_url>generated_record</redirect_url><request_method/><roles/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><script/><short_description/><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><sys_class_name>sc_cat_item_producer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 08:05:17</sys_created_on><sys_id>bfd16943db865c5099b092d8db961999</sys_id><sys_mod_count>12</sys_mod_count><sys_name>WeClientell PWD reset(for CN region)</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sc_cat_item_producer_bfd16943db865c5099b092d8db961999</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-12 11:12:50</sys_updated_on><table_name>incident</table_name><template display_value="For CN region, it was called WeClientell">2d9ef191db5e589067c89cb6db96193f</template><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><view>cn</view><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item_producer><sys_translated_text action="delete_multiple" query="documentkey=bfd16943db865c5099b092d8db961999"/><fx_price action="delete_multiple" query="id=bfd16943db865c5099b092d8db961999"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="CNY">CNY</currency><field>price</field><id>bfd16943db865c5099b092d8db961999</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 08:05:17</sys_created_on><sys_id>5602ad8fdb465c5099b092d8db961963</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 08:05:17</sys_updated_on><table>sc_cat_item_producer</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="CNY">CNY</currency><field>recurring_price</field><id>bfd16943db865c5099b092d8db961999</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-21 08:05:17</sys_created_on><sys_id>9e02ad8fdb465c5099b092d8db961963</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-21 08:05:17</sys_updated_on><table>sc_cat_item_producer</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>243449383</payload_hash>
+        <record_name>WeClientell PWD reset(for CN region)</record_name>
+        <reverted_from/>
+        <source>6d5190ecdb221410b80d5843f3961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 11:12:50</sys_created_on>
+        <sys_id>0cff5702dbaa1c10b80d5843f39619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173e25f68820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 11:12:50</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>04ff570210aa1c10b405fd3cbbee1ad3</update_guid>
+        <update_guid_history>04ff570210aa1c10b405fd3cbbee1ad3:243449383,f790c6abc49e54d0f06e5de89c449a6a:-221885088,12e6342f9bd654d07296bc3ab65caee0:1034215679,956d1929e3de989083991f154d6aa0a4:1971163161,0f408e15145e5890fb823358a1eddd7b:404053539,8fde3191675e589068c0401737b2f885:1971163161,be087095ee965890048e21879603b790:-501307286,52d5c330ddd69490257f369d5cef646c:1578297702,155ded9f568a9c50384aaa54a0dadd2b:878915568,caf93583850a5c50b0576c58ed103860:1265702882,f0322583bd865c50c728b4b3a226e7f9:-539382112,6d222d4328865c50493eac449fd7d67c:1079552672,9e026183d4865c50ba0d4bb4b58fe856:-2080731954</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-12 19:12:50">ccff5702dbaa1c10b80d5843f39619f1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-12 11:12:50</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>1d101b91648e4012871e93561276eac9</sys_id>
+        <sys_metadata>bfd16943db865c5099b092d8db961999</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WeClientell PWD reset(for CN region)</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent display_value="Incident">38cd18f8db70130065799c18db9619de</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_bfd16943db865c5099b092d8db961999</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_bfd16943db865c5099b092d8db961999">0cff5702dbaa1c10b80d5843f39619d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-12 11:12:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

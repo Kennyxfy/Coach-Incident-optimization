@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="FEパスワードのリセットまたはアカウントのロック解除">fec7792fdb5e54d067c89cb6db961995</cat_item>
+        <cat_item display_value="CS2000アカウントのパスワード変更とロック解除">fec7792fdb5e54d067c89cb6db961995</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>

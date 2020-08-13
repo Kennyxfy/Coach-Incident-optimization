@@ -7,7 +7,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:6df471e7db5e54d067c89cb6db96192eISNOTEMPTY^EQ</catalog_conditions>
-        <catalog_item display_value="중국 지역의 경우 WeClientell이라고 불렸으며 비밀번호만 재설정하면 됩니다.">44fced6bdb1e54d067c89cb6db961911</catalog_item>
+        <catalog_item/>
         <conditions/>
         <description/>
         <global>true</global>

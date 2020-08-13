@@ -7,7 +7,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="FEパスワードのリセットまたはアカウントのロック解除">fec7792fdb5e54d067c89cb6db961995</cat_item>
+        <cat_item display_value="CS2000アカウントのパスワード変更とロック解除">fec7792fdb5e54d067c89cb6db961995</cat_item>
         <cat_variable>IO:60cc081edb5a9c9067c89cb6db961991</cat_variable>
         <condition/>
         <description/>

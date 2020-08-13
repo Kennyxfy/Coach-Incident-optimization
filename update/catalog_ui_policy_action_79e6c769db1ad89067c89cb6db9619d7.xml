@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Store AD account unlocked or reset the PWD">2d812903db865c5099b092d8db9619b9</catalog_item>
+        <catalog_item display_value="Email account unlock &amp; password reset">2d812903db865c5099b092d8db9619b9</catalog_item>
         <catalog_variable>IO:66a64369db1ad89067c89cb6db961992</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="AD 계정을 해제하거나 비밀번호를 재설정">53a1062fdb9e54d067c89cb6db96198d</sc_cat_item>
+        <sc_cat_item display_value="메일 계정 해제 및 비번 재 설정">53a1062fdb9e54d067c89cb6db96198d</sc_cat_item>
         <sc_category display_value="셀프 서비스">4c74dd67db9a54d067c89cb6db96193c</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -7,7 +7,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="店铺账号解锁和重置密码">77514eebdb9e54d067c89cb6db96197f</cat_item>
+        <cat_item display_value="邮箱账号解锁和重置密码">77514eebdb9e54d067c89cb6db96197f</cat_item>
         <cat_variable>IO:4f8c841edb5a9c9067c89cb6db96190a</cat_variable>
         <condition/>
         <description/>

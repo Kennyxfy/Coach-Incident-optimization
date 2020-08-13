@@ -7,7 +7,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="WeClientell的密码重置(仅供CN地区)">396c656bdb1e54d067c89cb6db961975</cat_item>
+        <cat_item display_value="WeClientell账户密码重置">396c656bdb1e54d067c89cb6db961975</cat_item>
         <cat_variable>IO:20364cd2db5a9c9067c89cb6db961988</cat_variable>
         <condition/>
         <description/>

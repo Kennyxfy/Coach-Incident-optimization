@@ -7,7 +7,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="HHT Personal ID PWD reset">f5012903db865c5099b092d8db9619e2</cat_item>
+        <cat_item display_value="Password reset of HHT account">f5012903db865c5099b092d8db9619e2</cat_item>
         <cat_variable>IO:40850c92db5a9c9067c89cb6db961919</cat_variable>
         <condition/>
         <description/>

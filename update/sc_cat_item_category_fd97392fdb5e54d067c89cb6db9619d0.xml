@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="前台密碼重設和帳戶解鎖">f377bdebdb5e54d067c89cb6db961972</sc_cat_item>
+        <sc_cat_item display_value="CS2000密碼重設和帳戶解鎖">f377bdebdb5e54d067c89cb6db961972</sc_cat_item>
         <sc_category display_value="自助服務">7354d567db9a54d067c89cb6db961952</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>

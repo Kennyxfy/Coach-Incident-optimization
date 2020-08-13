@@ -16,22 +16,22 @@
         <short_description>提出请求，报告问题，请联系技术支持</short_description>
         <size>md</size>
         <sp_column display_value="1">86f53c97db9214d067c89cb6db961965</sp_column>
-        <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
+        <sp_page display_value="esayinc_cn">b427e86cdba21410b80d5843f39619bf</sp_page>
         <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-03 09:46:55</sys_created_on>
         <sys_id>86f53c97db9214d067c89cb6db961967</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>获取帮助</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>故障申报</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sp_instance_link_86f53c97db9214d067c89cb6db961967</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-04 07:37:25</sys_updated_on>
-        <title>获取帮助</title>
-        <type>url</type>
+        <sys_updated_on>2020-08-12 02:22:13</sys_updated_on>
+        <title>故障申报</title>
+        <type>page</type>
         <url>https://tapestryasiadev.service-now.com/ss?id=sc_category&amp;sys_id=49349927db9a54d067c89cb6db961977&amp;catalog_id=e0d08b13c3330100c8b837659bba8fb4</url>
         <widget_parameters><![CDATA[{
 	"link_template": {

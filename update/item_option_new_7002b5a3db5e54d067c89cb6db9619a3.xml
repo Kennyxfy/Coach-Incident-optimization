@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="WeClientell的密码重置(仅供CN地区)">396c656bdb1e54d067c89cb6db961975</cat_item>
+        <cat_item display_value="WeClientell账户密码重置">396c656bdb1e54d067c89cb6db961975</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -40,7 +40,7 @@
         <order>300</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>请提供您的个人工号ID</question_text>
+        <question_text>请提供您的个人工号ID， 重置后的密码将和您的工号一致。</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -59,17 +59,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-04 08:48:40</sys_created_on>
         <sys_id>7002b5a3db5e54d067c89cb6db9619a3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>请提供您的个人工号ID</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>请提供您的个人工号ID， 重置后的密码将和您的工号一致。</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>item_option_new_7002b5a3db5e54d067c89cb6db9619a3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-04 08:48:40</sys_updated_on>
+        <sys_updated_on>2020-08-12 03:11:02</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>

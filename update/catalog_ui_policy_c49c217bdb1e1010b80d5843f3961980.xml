@@ -7,7 +7,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:bd6ca93bdb1e1010b80d5843f3961901ISNOTEMPTY^EQ</catalog_conditions>
-        <catalog_item display_value="HHT系統個人工號密碼重置">8182ca6fdb9e54d067c89cb6db9619c8</catalog_item>
+        <catalog_item display_value="HHT系統個人帳戶密碼重置">8182ca6fdb9e54d067c89cb6db9619c8</catalog_item>
         <conditions/>
         <description/>
         <global>true</global>

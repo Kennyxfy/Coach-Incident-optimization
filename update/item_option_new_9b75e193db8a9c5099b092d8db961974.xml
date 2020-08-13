@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="FE password reset and account unlocked">08cd510fdb465c5099b092d8db96195e</cat_item>
+        <cat_item display_value="CS2000 password reset &amp; account unlock ">08cd510fdb465c5099b092d8db96195e</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field>u_key_choice</choice_field>

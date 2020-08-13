@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>book</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Browse and search for articles,rate or submit feedback</short_description>
+        <size>md</size>
+        <sp_column display_value="2">a016e9dddb9a589067c89cb6db96199a</sp_column>
+        <sp_page display_value="kb_view">db9fcab847101200ba13a5554ee490cf</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 06:51:29</sys_created_on>
+        <sys_id>a14451d5db5a589067c89cb6db96190a</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>FAQ</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_link_a14451d5db5a589067c89cb6db96190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 08:11:20</sys_updated_on>
+        <title>FAQ</title>
+        <type>url</type>
+        <url>https://tapestryasiadev.service-now.com/ss?id=kb_category&amp;kb_category=8d2d51d1db9a589067c89cb6db961965&amp;kb_id=796c1591db9a589067c89cb6db961983</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=a14451d5db5a589067c89cb6db96190a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_link_a14451d5db5a589067c89cb6db96190a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;book&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Browse and search for articles,rate or submit feedback&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;a016e9dddb9a589067c89cb6db96199a&lt;/sp_column&gt;&lt;sp_page display_value="kb_view"&gt;db9fcab847101200ba13a5554ee490cf&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-07-28 06:51:29&lt;/sys_created_on&gt;&lt;sys_id&gt;a14451d5db5a589067c89cb6db96190a&lt;/sys_id&gt;&lt;sys_mod_count&gt;15&lt;/sys_mod_count&gt;&lt;sys_name&gt;FAQ&lt;/sys_name&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_a14451d5db5a589067c89cb6db96190a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-07-29 08:11:20&lt;/sys_updated_on&gt;&lt;title&gt;FAQ&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://tapestryasiadev.service-now.com/ss?id=kb_category&amp;amp;kb_category=8d2d51d1db9a589067c89cb6db961965&amp;amp;kb_id=796c1591db9a589067c89cb6db961983&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a14451d5db5a589067c89cb6db96190a"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1761660066</payload_hash>
+        <record_name>FAQ</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-29 08:11:20</sys_created_on>
+        <sys_id>05207ee5db96d89067c89cb6db9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17399a037fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-29 08:11:20</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>89207ee58d96d89068c82f56c7ad46f9</update_guid>
+        <update_guid_history>89207ee58d96d89068c82f56c7ad46f9:-1761660066,0d1b66611196d890a0d0551e4dc5ff10:-1760579915,33a5f915e21e5890e0612cd0718127b8:-1780742361,0b2ae11591da5890777557ea0bff6487:-730437746,ea66eddd049a5890e44ccf082404b76c:-528769858,1666edddd29a5890f73ba1a85235ca67:-730437746,1866e11d6f9a589005dc2d83d41ef668:-528769858,ad36eddd939a5890454b6a0a859a5e49:-1962392769,4536eddd669a5890424f203f3d879e33:-730437746,e726adddec9a589027ffb4d20ea09c61:-528769858,cf26add9b19a5890c351f5d08392a5be:-730437746,89266dddb69a58902864e4c6a44bab39:-528769858,60266ddd459a5890de111dd43d863f33:-730437746,5ba695992d5a589066d1aaafae275b56:-528769858,a5b55919da5a5890c9b2fdaab3d8b585:-558731071,294451d5e15a58904b15622cb49ca60b:-732860593</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-07 13:55:31">5b57e4acdba21410b80d5843f3961999</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 05:55:32</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>5b6f54d3e59445159d12130f1630b5e1</sys_id>
+        <sys_metadata>a14451d5db5a589067c89cb6db96190a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FAQ</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_link_a14451d5db5a589067c89cb6db96190a</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_a14451d5db5a589067c89cb6db96190a">05207ee5db96d89067c89cb6db9619fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-07 05:55:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

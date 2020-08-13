@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="CNリージョンの場合、WeClientellと呼ばれ、パスワードをリセットするだけです.">e38d69abdb1e54d067c89cb6db9619e9</catalog_item>
+        <catalog_item/>
         <catalog_variable>IO:7c76b96bdb5e54d067c89cb6db961970</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="USB Hub问题">c2c89dabdb9a54d067c89cb6db961922</catalog_item>
+        <catalog_item/>
         <catalog_variable>IO:97eda9ebdb1e54d067c89cb6db96196c</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

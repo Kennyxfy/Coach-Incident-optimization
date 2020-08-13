@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="ストアアカウントのロック解除またはパスワードリセット">10d1862fdb9e54d067c89cb6db9619c8</cat_item>
+        <cat_item display_value="メールアカウントのパスワード変更とロック解除">10d1862fdb9e54d067c89cb6db9619c8</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>

@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="HHT Personal ID PWD reset">f5012903db865c5099b092d8db9619e2</cat_item>
+        <cat_item display_value="Password reset of HHT account">f5012903db865c5099b092d8db9619e2</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -40,10 +40,10 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>description</name>
-        <order>300</order>
+        <order>100</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Please provide your personal staff AD</question_text>
+        <question_text>Please kindly provide account(ID)</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -62,17 +62,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-21 09:56:46</sys_created_on>
         <sys_id>755b3dc3db0a5c5099b092d8db96197b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Please provide your personal staff AD</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Please kindly provide account(ID)</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>item_option_new_755b3dc3db0a5c5099b092d8db96197b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-27 01:40:30</sys_updated_on>
+        <sys_updated_on>2020-08-13 03:04:43</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>

@@ -7,7 +7,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:7c76b96bdb5e54d067c89cb6db961970ISNOTEMPTY^EQ</catalog_conditions>
-        <catalog_item display_value="CNリージョンの場合、WeClientellと呼ばれ、パスワードをリセットするだけです.">e38d69abdb1e54d067c89cb6db9619e9</catalog_item>
+        <catalog_item/>
         <conditions/>
         <description/>
         <global>true</global>

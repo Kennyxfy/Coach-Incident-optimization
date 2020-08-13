@@ -7,7 +7,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
-        <cat_item display_value="Store AD account unlocked or reset the PWD">2d812903db865c5099b092d8db9619b9</cat_item>
+        <cat_item display_value="Email account unlock &amp; password reset">2d812903db865c5099b092d8db9619b9</cat_item>
         <cat_variable>IO:4f8c841edb5a9c9067c89cb6db96190a</cat_variable>
         <condition/>
         <description/>

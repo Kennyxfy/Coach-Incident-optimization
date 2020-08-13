@@ -26,7 +26,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>AD 계정을 해제하거나 비밀번호를 재설정</name>
+        <name>메일 계정 해제 및 비번 재 설정</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -61,14 +61,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-04 09:56:10</sys_created_on>
         <sys_id>53a1062fdb9e54d067c89cb6db96198d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>AD 계정을 해제하거나 비밀번호를 재설정</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>메일 계정 해제 및 비번 재 설정</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sc_cat_item_producer_53a1062fdb9e54d067c89cb6db96198d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-04 09:56:41</sys_updated_on>
+        <sys_updated_on>2020-08-13 01:02:02</sys_updated_on>
         <table_name>incident</table_name>
         <template display_value="Store AD account unlocked or reset the P">dbfd7551db5e589067c89cb6db96197b</template>
         <type>item</type>

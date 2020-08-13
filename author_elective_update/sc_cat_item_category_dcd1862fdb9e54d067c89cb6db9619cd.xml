@@ -51,7 +51,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>셀프 서비스.AD 계정을 해제하거나 비밀번호를 재설정</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
-        <sys_parent display_value="ストアアカウントのロック解除またはパスワードリセット">10d1862fdb9e54d067c89cb6db9619c8</sys_parent>
+        <sys_parent display_value="メールアカウントのパスワード変更とロック解除">10d1862fdb9e54d067c89cb6db9619c8</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>

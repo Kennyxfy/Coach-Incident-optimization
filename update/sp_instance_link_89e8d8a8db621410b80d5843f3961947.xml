@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Password reset of HHT account">f5012903db865c5099b092d8db9619e2</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">00789c68db621410b80d5843f3961992</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-07 04:52:18</sys_created_on>
+        <sys_id>89e8d8a8db621410b80d5843f3961947</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Password reset of HHT account</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_link_89e8d8a8db621410b80d5843f3961947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-13 02:23:27</sys_updated_on>
+        <title>Password reset of HHT account</title>
+        <type>sc_cat_item</type>
+        <url>https://tapestryasiadev.service-now.com/ss?id=sc_cat_item&amp;sys_id=f5012903db865c5099b092d8db9619e2&amp;sysparm_category=c35fd50fdb465c5099b092d8db961983</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=89e8d8a8db621410b80d5843f3961947"/>
+</record_update>

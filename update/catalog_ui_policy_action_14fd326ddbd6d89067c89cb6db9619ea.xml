@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="HHT Personal ID PWD reset">f5012903db865c5099b092d8db9619e2</catalog_item>
+        <catalog_item display_value="Password reset of HHT account">f5012903db865c5099b092d8db9619e2</catalog_item>
         <catalog_variable>IO:c67d762ddbd6d89067c89cb6db961936</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="前台密碼重設和帳戶解鎖">f377bdebdb5e54d067c89cb6db961972</catalog_item>
+        <catalog_item display_value="CS2000密碼重設和帳戶解鎖">f377bdebdb5e54d067c89cb6db961972</catalog_item>
         <catalog_variable>IO:07ea7523db9e54d067c89cb6db9619a2</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

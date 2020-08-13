@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="ストアアカウントのロック解除またはパスワードリセット">10d1862fdb9e54d067c89cb6db9619c8</catalog_item>
+        <catalog_item display_value="メールアカウントのパスワード変更とロック解除">10d1862fdb9e54d067c89cb6db9619c8</catalog_item>
         <catalog_variable>IO:97e5a9ffdbda1010b80d5843f3961937</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

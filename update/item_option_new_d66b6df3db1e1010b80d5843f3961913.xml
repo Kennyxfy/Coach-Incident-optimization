@@ -2,14 +2,14 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="HHT系统个人工号密码重置">2462c66fdb9e54d067c89cb6db9619e0</cat_item>
+        <cat_item display_value="HHT系统个人账户密码重置">2462c66fdb9e54d067c89cb6db9619e0</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value>HHT系统个人工号密码重置</default_value>
+        <default_value>HHT系统个人账户密码重置</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -40,7 +40,7 @@
         <order>400</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>HHT系统个人工号密码重置</question_text>
+        <question_text>HHT系统个人账户密码重置</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -59,14 +59,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-05 02:57:53</sys_created_on>
         <sys_id>d66b6df3db1e1010b80d5843f3961913</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>HHT系统个人工号密码重置</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>HHT系统个人账户密码重置</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>item_option_new_d66b6df3db1e1010b80d5843f3961913</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-05 02:57:53</sys_updated_on>
+        <sys_updated_on>2020-08-12 02:49:22</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

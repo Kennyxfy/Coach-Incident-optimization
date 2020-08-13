@@ -7,7 +7,7 @@
         <applies_target_record>false</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:b55f3da7db9e54d067c89cb6db9619ac=1^EQ</catalog_conditions>
-        <catalog_item display_value="FEパスワードのリセットまたはアカウントのロック解除">fec7792fdb5e54d067c89cb6db961995</catalog_item>
+        <catalog_item display_value="CS2000アカウントのパスワード変更とロック解除">fec7792fdb5e54d067c89cb6db961995</catalog_item>
         <conditions/>
         <description/>
         <global>true</global>

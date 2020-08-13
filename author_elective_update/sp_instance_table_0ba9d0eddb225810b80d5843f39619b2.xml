@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>3</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">f7b7b85bdb9214d067c89cb6db96198b</sp_column>
+        <sp_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</sp_page>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 07:29:38</sys_created_on>
+        <sys_id>0ba9d0eddb225810b80d5843f39619b2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>sp_instance_table_0ba9d0eddb225810b80d5843f39619b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 07:32:52</sys_updated_on>
+        <table>kb_knowledge</table>
+        <title>Notes</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=0ba9d0eddb225810b80d5843f39619b2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>sp_instance_table_0ba9d0eddb225810b80d5843f39619b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field/><field_list/><filter/><glyph/><id/><maximum_entries>5</maximum_entries><order>3</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="2">f7b7b85bdb9214d067c89cb6db96198b</sp_column><sp_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</sp_page><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-10 07:29:38</sys_created_on><sys_id>0ba9d0eddb225810b80d5843f39619b2</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Notes</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>sp_instance_table_0ba9d0eddb225810b80d5843f39619b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-10 07:32:52</sys_updated_on><table>kb_knowledge</table><title>Notes</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=0ba9d0eddb225810b80d5843f39619b2"/></record_update>]]></payload>
+        <payload_hash>-457991951</payload_hash>
+        <record_name>Notes</record_name>
+        <reverted_from/>
+        <source>6d5190ecdb221410b80d5843f3961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 07:32:52</sys_created_on>
+        <sys_id>266a9421db625810b80d5843f39619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173d7494fc50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 07:32:52</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>da6a94219462581012c46ad0315674ba</update_guid>
+        <update_guid_history>da6a94219462581012c46ad0315674ba:-457991951,2c0a18edea225810ef287a281cc3de72:-970561838,93d954ed5e22581059662c52adde7cba:1773878080,87a9d0edc3225810844f8f87a6e0d7b4:18272282</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-10 15:32:57">6b6ad021db625810b80d5843f3961961</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-10 07:32:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>4b31a989ca0643608f1d445d9f400900</sys_id>
+        <sys_metadata>0ba9d0eddb225810b80d5843f39619b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>sp_instance_table_0ba9d0eddb225810b80d5843f39619b2</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_0ba9d0eddb225810b80d5843f39619b2">266a9421db625810b80d5843f39619bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-10 07:32:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
