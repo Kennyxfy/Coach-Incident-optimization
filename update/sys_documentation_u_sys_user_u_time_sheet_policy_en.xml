@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_time_sheet_policy" label="Time sheet policy" language="en" table="u_sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_time_sheet_policy</element>
+            <help/>
+            <hint/>
+            <label>Time sheet policy</label>
+            <language>en</language>
+            <name>u_sys_user</name>
+            <plural>Time sheet policies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-18 01:43:11</sys_created_on>
+            <sys_id>161790c0db72d450fa9e022cd3961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Time sheet policy</sys_name>
+            <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+            <sys_update_name>sys_documentation_u_sys_user_u_time_sheet_policy_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-18 01:43:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

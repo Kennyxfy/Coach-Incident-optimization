@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
+    <m2m_announcement_portal action="INSERT_OR_UPDATE">
+        <announcement display_value="notes">72d8987fdbaa5450fa9e022cd39619f1</announcement>
+        <order>100</order>
+        <sp_portal display_value="Home">9d819013dbded0d067c89cb6db9619dc</sp_portal>
+        <sys_class_name>m2m_announcement_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-17 07:13:19</sys_created_on>
+        <sys_id>2ce89473dbea5450fa9e022cd396190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.Home</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>m2m_announcement_portal_2ce89473dbea5450fa9e022cd396190c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-17 07:13:19</sys_updated_on>
+    </m2m_announcement_portal>
+</record_update>

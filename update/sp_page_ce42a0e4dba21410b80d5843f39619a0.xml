@@ -8,7 +8,8 @@
 }&#13;
 &#13;
 section.page {&#13;
-  background-image: url('sp-landing-back.jpg');&#13;
+  #background-image: url('sp-landing-back.jpg');&#13;
+  background-image: url('login.png');&#13;
   background-position: center center;&#13;
   background-size: cover;&#13;
   background-repeat: no-repeat;&#13;
@@ -31,14 +32,14 @@ section.page main.body:before {&#13;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-07 05:33:19</sys_created_on>
         <sys_id>ce42a0e4dba21410b80d5843f39619a0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>landing_language</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sp_page_ce42a0e4dba21410b80d5843f39619a0</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-07 05:34:03</sys_updated_on>
+        <sys_updated_by>hunan</sys_updated_by>
+        <sys_updated_on>2020-08-17 12:58:08</sys_updated_on>
         <title>Service Portal language</title>
     </sp_page>
     <sys_translated_text action="delete_multiple" query="documentkey=ce42a0e4dba21410b80d5843f39619a0"/>

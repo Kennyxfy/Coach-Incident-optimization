@@ -3,7 +3,14 @@
         <active>true</active>
         <class_name/>
         <color>default</color>
-        <css/>
+        <css>h2{&#13;
+  font-weight: 1000;&#13;
+  color: black;&#13;
+  line-height: 2.5;&#13;
+}&#13;
+.text-default{&#13;
+  color:black;&#13;
+}</css>
         <glyph>book</glyph>
         <id/>
         <kb_article/>
@@ -13,7 +20,7 @@
         <roles/>
         <sc_cat_item/>
         <sc_category/>
-        <short_description>Browse and search for articles,rate or submit feedback</short_description>
+        <short_description/>
         <size>md</size>
         <sp_column display_value="2">7bb7b85bdb9214d067c89cb6db96197f</sp_column>
         <sp_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</sp_page>
@@ -22,14 +29,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-03 09:54:41</sys_created_on>
         <sys_id>3bb7b85bdb9214d067c89cb6db961981</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>FAQ</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sp_instance_link_3bb7b85bdb9214d067c89cb6db961981</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-07 07:24:49</sys_updated_on>
+        <sys_updated_by>hunan</sys_updated_by>
+        <sys_updated_on>2020-08-17 14:02:39</sys_updated_on>
         <title>FAQ</title>
         <type>url</type>
         <url>https://tapestryasiadev.service-now.com/en?id=kb_category&amp;kb_category=8d2d51d1db9a589067c89cb6db961965&amp;kb_id=796c1591db9a589067c89cb6db961983</url>

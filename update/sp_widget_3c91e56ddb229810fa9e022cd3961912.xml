@@ -100,126 +100,133 @@
 	}
 }]]></client_script>
         <controller_as>c</controller_as>
-        <css>.sp-login-widget { 
-  
-  .panel-body {
-    padding: 15px 15px 10px;
-  }
-  
-  .form-control,
-  label[for="username"],
-  label[for="password"] {
-    color: black;
-  }
-  
-  .btn {
-    font-weight: 600;
-    font-size: 2.0rem;
-    background-color: $login-btn-bg;
-    border-color: $login-btn-border;
-  }
-  
-  .list-group {
-    margin-bottom: 12px;
-  }
-  
-  .login-button-old {
-    margin-top: 7px;
-  }
-  
-  .login-alert {
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-
-}
-//STRY50033370: Forgot Password link in the login widget
-//Start -- login widget advanced view
-.sp-login-widget.advanced {  
-  .panel-title {
-    font-size: 25px;
-  }
-  
-  .panel-default &gt; .panel-heading {
-    background-color: $panel-bg; 
-    border: 0px;    
-  }
-  
-  .panel-body {
-    padding: 0px 0px 10px;
-  }
-
-  [placeholder]::-webkit-input-placeholder { 
-    transition: opacity 0.01s 0.01s ease !important; 
-    opacity: 0 !important; 
-  }
-
-  .form-signin {
-    .list-group-item { 
-      border: 0px;
-    }
-    
-    .login-alert {
-    margin-left: 15px;
-    margin-right: 15px;
-    }
-    
-    .btn {
-      font-weight: 400 !important;
-      border-color: $brand-primary;
-      background-color: $brand-primary;
-      border-radius: 2px;
-    }
-
-    .forgot-pwd-div {
-      padding-right: 15px;
-      padding-left: 15px;
-      .forgot-text {
-        font-size: 16px;	
-        line-height: 20px;
-        padding-top: 8px;
-      }
-      
-      .btn {
-        line-height: 16px;
-        font-size: 14px;
-        margin-top: 0px;
-      }
-      
-    }
-    
-    .submit-btn {
-      padding-right: 15px;
-      padding-left: 15px;
-    }
-    
-    .input-advanced {
-      margin-top: 10px;
-      border: 1px solid $panel-default-border !important;
-      border-radius: 3px !important;
-      background-color: $panel-bg !important;
-    }
-    
-    .checkbox {
-      padding-left: 15px !important; 
-    }
-   
-    .label-advanced {
-      position: relative;
-      width: 100%;
-      padding: 0;
-      overflow: visible;
-      border: 0;
-      height: 19px;
-      color: $text-color;
-      font-size: 16px;
-      line-height: 19px;
-    }
-
-  }
-
-}
-//End -- login widget advanced view
+        <css>.sp-login-widget { &#13;
+  &#13;
+  .panel-body {&#13;
+    padding: 15px 15px 10px;&#13;
+  }&#13;
+  &#13;
+  .form-control,&#13;
+  label[for="username"],&#13;
+  label[for="password"] {&#13;
+    color: black;&#13;
+  }&#13;
+  .checkbox label {&#13;
+    color: black; &#13;
+  }&#13;
+  .forgot-pwd-link {&#13;
+   color: black !important; &#13;
+  }&#13;
+  &#13;
+  .btn {&#13;
+    font-weight: 600;&#13;
+    font-size: 2.0rem;&#13;
+    background-color: $login-btn-bg;&#13;
+    #background-color: black;&#13;
+    border-color: $login-btn-border;&#13;
+  }&#13;
+  &#13;
+  .list-group {&#13;
+    margin-bottom: 12px;&#13;
+  }&#13;
+  &#13;
+  .login-button-old {&#13;
+    margin-top: 7px;&#13;
+  }&#13;
+  &#13;
+  .login-alert {&#13;
+    margin-left: 0px;&#13;
+    margin-right: 0px;&#13;
+  }&#13;
+&#13;
+}&#13;
+//STRY50033370: Forgot Password link in the login widget&#13;
+//Start -- login widget advanced view&#13;
+.sp-login-widget.advanced {  &#13;
+  .panel-title {&#13;
+    font-size: 25px;&#13;
+  }&#13;
+  &#13;
+  .panel-default &gt; .panel-heading {&#13;
+    background-color: $panel-bg; &#13;
+    border: 0px;    &#13;
+  }&#13;
+  &#13;
+  .panel-body {&#13;
+    padding: 0px 0px 10px;&#13;
+  }&#13;
+&#13;
+  [placeholder]::-webkit-input-placeholder { &#13;
+    transition: opacity 0.01s 0.01s ease !important; &#13;
+    opacity: 0 !important; &#13;
+  }&#13;
+&#13;
+  .form-signin {&#13;
+    .list-group-item { &#13;
+      border: 0px;&#13;
+    }&#13;
+    &#13;
+    .login-alert {&#13;
+    margin-left: 15px;&#13;
+    margin-right: 15px;&#13;
+    }&#13;
+    &#13;
+    .btn {&#13;
+      font-weight: 400 !important;&#13;
+      border-color: $brand-primary;&#13;
+      background-color: $brand-primary;&#13;
+      border-radius: 2px;&#13;
+    }&#13;
+&#13;
+    .forgot-pwd-div {&#13;
+      padding-right: 15px;&#13;
+      padding-left: 15px;&#13;
+      .forgot-text {&#13;
+        font-size: 16px;	&#13;
+        line-height: 20px;&#13;
+        padding-top: 8px;&#13;
+      }&#13;
+      &#13;
+      .btn {&#13;
+        line-height: 16px;&#13;
+        font-size: 14px;&#13;
+        margin-top: 0px;&#13;
+      }&#13;
+      &#13;
+    }&#13;
+    &#13;
+    .submit-btn {&#13;
+      padding-right: 15px;&#13;
+      padding-left: 15px;&#13;
+    }&#13;
+    &#13;
+    .input-advanced {&#13;
+      margin-top: 10px;&#13;
+      border: 1px solid $panel-default-border !important;&#13;
+      border-radius: 3px !important;&#13;
+      background-color: $panel-bg !important;&#13;
+    }&#13;
+    &#13;
+    .checkbox {&#13;
+      padding-left: 15px !important; &#13;
+    }&#13;
+   &#13;
+    .label-advanced {&#13;
+      position: relative;&#13;
+      width: 100%;&#13;
+      padding: 0;&#13;
+      overflow: visible;&#13;
+      border: 0;&#13;
+      height: 19px;&#13;
+      color: $text-color;&#13;
+      font-size: 16px;&#13;
+      line-height: 19px;&#13;
+    }&#13;
+&#13;
+  }&#13;
+&#13;
+}&#13;
+//End -- login widget advanced view&#13;
 </css>
         <data_table>sp_instance</data_table>
         <demo_data/>
@@ -277,14 +284,14 @@
         <sys_created_by>hunan</sys_created_by>
         <sys_created_on>2020-08-10 12:43:46</sys_created_on>
         <sys_id>3c91e56ddb229810fa9e022cd3961912</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Login2</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sp_widget_3c91e56ddb229810fa9e022cd3961912</sys_update_name>
         <sys_updated_by>hunan</sys_updated_by>
-        <sys_updated_on>2020-08-10 13:13:23</sys_updated_on>
+        <sys_updated_on>2020-08-18 01:17:46</sys_updated_on>
         <template><![CDATA[<div ng-if="!data.is_logged_in" class="sp-login-widget" ng-class="::(c.options.use_advanced == 'true' ? 'advanced' : '')">
   <form ng-if="!c.externalLoginMode" class="form-signin" ng-submit="c.login(c.username, c.password)" method="post">
 		<div ng-class="::{'panel panel-default': c.options.show_panel}">
@@ -315,7 +322,7 @@
         <div class="forgot-pwd-div m-b">
           <div class="row">
             <div ng-if="::(c.data.forgotPwdLinkProp == 'true')" class="forgot-text" ng-class="::(c.options.use_advanced == 'true' ? 'col-xs-8' : 'col-xs-12')">
-              <a class="forgot-pwd-link" ng-href="{{::c.data.pswdResetUrl}}" aria-label="${Please click here to reset your password}">${Forgot Password ?}</a>
+              <a class="forgot-pwd-link" ng-href="{{::c.data.pswdResetUrl}}" style="color:black !important" aria-label="${Please click here to reset your password}">${Forgot Password ?}</a>
             </div>
             <div ng-class="::(c.options.use_advanced == 'true' && c.data.forgotPwdLinkProp =='true' ? 'col-xs-4' : 'col-xs-12')">
               <button name="login" type="submit" class="btn btn-lg btn-primary btn-block login-button-old">
