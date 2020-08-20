@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_till_10_u_till_10_" label="TILL 10(u_till_10)" language="en" table="imp_location">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_till_10_u_till_10_</element>
+            <help/>
+            <hint/>
+            <label>TILL 10(u_till_10)</label>
+            <language>en</language>
+            <name>imp_location</name>
+            <plural>TILL 10(u_till_10)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-19 01:22:14</sys_created_on>
+            <sys_id>09eb5d58db3e1850fa9e022cd39619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TILL 10(u_till_10)</sys_name>
+            <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+            <sys_update_name>sys_documentation_imp_location_u_till_10_u_till_10__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-19 01:22:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

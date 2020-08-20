@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,all_tables.query_hints=true,hasLabels=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="インシデント" max_length="40" name="incident" sizeclass="271885" text_index="true" type="collection">
+    <element attributes="email_client=true,all_tables.query_hints=true,hasLabels=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="インシデント" max_length="40" name="incident" sizeclass="271907" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="3" label="Target Token" max_length="40" name="x_achin_coach_inci_u_plan_token" read_only="true" type="string">
             <choice>
                 <element inactive_on_update="false" label="1 token" sequence="1" value="1 token"/>

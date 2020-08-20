@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="DELETE">
+        <active>true</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>true</display_first>
+        <display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style>
+        <from>2020-08-19 01:43:03</from>
+        <glyph/>
+        <glyph_alt_text/>
+        <name>test</name>
+        <public>false</public>
+        <roles/>
+        <sn_communities_announcement_type/>
+        <sn_communities_forums/>
+        <sn_communities_notification>false</sn_communities_notification>
+        <sn_communities_notification_sent>false</sn_communities_notification_sent>
+        <sn_communities_portals>5b49418bdb4aa200b1f6f78eaf96195f</sn_communities_portals>
+        <sn_communities_selected_forums/>
+        <summary>test for Self-service</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>hunan</sys_created_by>
+        <sys_created_on>2020-08-19 01:43:58</sys_created_on>
+        <sys_id>95edd99cdb765810b80d5843f39619b8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>announcement_95edd99cdb765810b80d5843f39619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 03:03:45</sys_updated_on>
+        <title>test</title>
+        <to>2020-08-26 01:43:07</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2</type>
+    </announcement>
+    <sys_translated_text action="DELETE" query="documentkey=95edd99cdb765810b80d5843f39619b8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>announcement_95edd99cdb765810b80d5843f39619b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement"><announcement action="INSERT_OR_UPDATE"><active>true</active><click_target/><details/><details_link_text/><details_page/><details_url/><dismiss_options>dismissible</dismiss_options><display_first>true</display_first><display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style><from>2020-08-19 01:43:03</from><glyph/><glyph_alt_text/><name>test</name><public>false</public><roles/><sn_communities_announcement_type/><sn_communities_forums/><sn_communities_notification>false</sn_communities_notification><sn_communities_notification_sent>false</sn_communities_notification_sent><sn_communities_portals>5b49418bdb4aa200b1f6f78eaf96195f</sn_communities_portals><sn_communities_selected_forums/><summary>test for Self-service</summary><sys_class_name>announcement</sys_class_name><sys_created_by>hunan</sys_created_by><sys_created_on>2020-08-19 01:43:58</sys_created_on><sys_id>95edd99cdb765810b80d5843f39619b8</sys_id><sys_mod_count>3</sys_mod_count><sys_name>test</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>announcement_95edd99cdb765810b80d5843f39619b8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-19 03:03:45</sys_updated_on><title>test</title><to>2020-08-26 01:43:07</to><type>67eaf134e7a3320075c2a117c2f6a9d2</type></announcement><sys_translated_text action="delete_multiple" query="documentkey=95edd99cdb765810b80d5843f39619b8"/></record_update>]]></payload>
+        <payload_hash>727065003</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>6d5190ecdb221410b80d5843f3961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 03:03:45</sys_created_on>
+        <sys_id>c423359cdbf65810b80d5843f3961973</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17404ac27c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 03:03:45</sys_updated_on>
+        <type>Announcement</type>
+        <update_guid>4c23359ce9f65810ef399c12e4b98472</update_guid>
+        <update_guid_history>4c23359ce9f65810ef399c12e4b98472:727065003,9da36118cd7e18503ad1a8ba64f3cb9b:-276494233,83912d1461b65810b742a139653a847d:727065003,63d02dd08db658102fda1bc928323302:2125409423</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-20 10:50:14">b79976acdb72d810b80d5843f3961923</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jlu1</sys_created_by>
+        <sys_created_on>2020-08-20 02:50:14</sys_created_on>
+        <sys_db_object display_value="Announcement" name="announcement">announcement</sys_db_object>
+        <sys_id>5bf97ee309984d09ad888127f94d41a9</sys_id>
+        <sys_metadata>95edd99cdb765810b80d5843f39619b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>announcement_95edd99cdb765810b80d5843f39619b8</sys_update_name>
+        <sys_update_version display_value="announcement_95edd99cdb765810b80d5843f39619b8">c423359cdbf65810b80d5843f3961973</sys_update_version>
+        <sys_updated_by>jlu1</sys_updated_by>
+        <sys_updated_on>2020-08-20 02:50:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

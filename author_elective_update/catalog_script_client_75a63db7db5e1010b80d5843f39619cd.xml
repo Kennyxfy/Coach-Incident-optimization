@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="DELETE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="WeClientell的密码重置(仅供CN地区)">396c656bdb1e54d067c89cb6db961975</cat_item>
+        <cat_variable>IO:20364cd2db5a9c9067c89cb6db961988</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>ValidationNewPassword</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue == '') {
+        return;
+    }
+    g_form.clearMessages();
+    if (newValue.trim().length < 8) {
+        g_form.addErrorMessage("Password length cannot be less than 8 bits/密码长度不能少于8个字符/密碼長度不能少於8位/パスワードは８文字以上必要がございます/비밀번호 길이는 8비트보다 작을 수 없음");
+    } else {
+        g_form.clearMessages();
+    }
+    //Type appropriate comment here, and begin script below
+
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 03:46:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>75a63db7db5e1010b80d5843f39619cd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ValidationNewPassword</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>catalog_script_client_75a63db7db5e1010b80d5843f39619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 03:46:41</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>catalog_script_client_75a63db7db5e1010b80d5843f39619cd</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_script_client"&gt;&lt;catalog_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;applies_req_item&gt;false&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;false&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;false&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;cat_item display_value="WeClientell的密码重置(仅供CN地区)"&gt;396c656bdb1e54d067c89cb6db961975&lt;/cat_item&gt;&lt;cat_variable&gt;IO:20364cd2db5a9c9067c89cb6db961988&lt;/cat_variable&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;ValidationNewPassword&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue == '') {
+        return;
+    }
+    g_form.clearMessages();
+    if (newValue.trim().length &lt; 8) {
+        g_form.addErrorMessage("Password length cannot be less than 8 bits/密码长度不能少于8个字符/密碼長度不能少於8位/パスワードは８文字以上必要がございます/비밀번호 길이는 8비트보다 작을 수 없음");
+    } else {
+        g_form.clearMessages();
+    }
+    //Type appropriate comment here, and begin script below
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;catalog_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-08-05 03:46:30&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;75a63db7db5e1010b80d5843f39619cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;ValidationNewPassword&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Coach Incident  optimization"&gt;2b20d4e8db87f3404f229a64db96199d&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_script_client_75a63db7db5e1010b80d5843f39619cd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-08-05 03:46:41&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-72809520</payload_hash>
+        <record_name>ValidationNewPassword</record_name>
+        <reverted_from/>
+        <source>994256bbdbcc9c90db6290c3db96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 03:46:42</sys_created_on>
+        <sys_id>28b63db7db5e1010b80d5843f396193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173bcba70d00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 03:46:42</sys_updated_on>
+        <type>Catalog Client Scripts</type>
+        <update_guid>ecb63db7e45e1010bf09304414d7073b</update_guid>
+        <update_guid_history>ecb63db7e45e1010bf09304414d7073b:-72809520,35a63db7ff5e1010bd94d17814205ecf:-1908114349</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-19 11:27:29">bb883d54db3a5810b80d5843f39619e9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 03:27:29</sys_created_on>
+        <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
+        <sys_id>6da5cbb099fe4f00b3cf97db57968529</sys_id>
+        <sys_metadata>75a63db7db5e1010b80d5843f39619cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ValidationNewPassword</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>catalog_script_client_75a63db7db5e1010b80d5843f39619cd</sys_update_name>
+        <sys_update_version display_value="catalog_script_client_75a63db7db5e1010b80d5843f39619cd">28b63db7db5e1010b80d5843f396193c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 03:27:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -3,7 +3,14 @@
         <active>true</active>
         <class_name/>
         <color>default</color>
-        <css/>
+        <css>h2{&#13;
+  font-weight: 1000;&#13;
+  color: black;&#13;
+  line-height: 2.5;&#13;
+}&#13;
+.text-default{&#13;
+  color:black;&#13;
+}</css>
         <glyph>book</glyph>
         <id/>
         <kb_article/>
@@ -22,14 +29,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-03 09:57:53</sys_created_on>
         <sys_id>a278f89bdb9214d067c89cb6db961950</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>よくある質問(FAQ)</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>sp_instance_link_a278f89bdb9214d067c89cb6db961950</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-17 07:43:02</sys_updated_on>
+        <sys_updated_by>hunan</sys_updated_by>
+        <sys_updated_on>2020-08-18 02:48:00</sys_updated_on>
         <title>よくある質問(FAQ)</title>
         <type>url</type>
         <url>https://tapestryasiadev.service-now.com/jp?kb_id=8124ec21dba25810b80d5843f396195b&amp;id=kb_category&amp;kb_category=5af86ca5dba25810b80d5843f396197f</url>

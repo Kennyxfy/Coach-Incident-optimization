@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Location" max_length="40" name="imp_location" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AIO printer" max_length="40" name="u_aio_printer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AP Address" max_length="40" name="u_ap_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="AP Qty" max_length="40" name="u_ap_qty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="u_brand" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Hours" max_length="40" name="u_business_hours" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Camera 数量" max_length="40" name="u_camera_数量" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CCTV设备类型" max_length="40" name="u_cctv设备类型" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Closed Date" max_length="40" name="u_closed_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Coach Create type" max_length="40" name="u_coach_create_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact" max_length="40" name="u_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Default Stockroom" max_length="40" name="u_default_stockroom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DVR(u_dvr)" max_length="40" name="u_dvr_u_dvr_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DVR(u_ip_dvr)" max_length="40" name="u_dvr_u_ip_dvr_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Factory Category" max_length="40" name="u_factory_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fax phone" max_length="40" name="u_fax_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Full name" max_length="40" name="u_full_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gateway(u_gateway)" max_length="40" name="u_gateway_u_gateway_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gateway(u_ip_gateway)" max_length="40" name="u_gateway_u_ip_gateway_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Latitude" max_length="40" name="u_latitude" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lat long error" max_length="40" name="u_lat_long_error" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Local Onsite Group" max_length="40" name="u_local_onsite_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Longitude" max_length="40" name="u_longitude" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager Phone" max_length="40" name="u_manager_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager's Email" max_length="40" name="u_manager_s_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MDMaccount" max_length="40" name="u_mdmaccount" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Off Store POS" max_length="40" name="u_off_store_pos" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Open Date" max_length="40" name="u_open_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parent" max_length="40" name="u_parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone territory" max_length="40" name="u_phone_territory" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Post #" max_length="40" name="u_post__" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shoppertrak Address" max_length="40" name="u_shoppertrak_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shoppertrak orbits Qty" max_length="40" name="u_shoppertrak_orbits_qty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State / Province" max_length="40" name="u_state___province" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Stock room" max_length="40" name="u_stock_room" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Business Close Date" max_length="40" name="u_store_business_close_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Code" max_length="40" name="u_store_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Email" max_length="40" name="u_store_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Fax Phone" max_length="40" name="u_store_fax_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Manager" max_length="40" name="u_store_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Name" max_length="40" name="u_store_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Phone" max_length="40" name="u_store_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Phone (2)" max_length="40" name="u_store_phone__2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Phone (3)" max_length="40" name="u_store_phone__3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Phone (4)" max_length="40" name="u_store_phone__4_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Status" max_length="40" name="u_store_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Type" max_length="40" name="u_store_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sys ID" max_length="40" name="u_sys_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Tier 2" max_length="40" name="u_tier_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 0" max_length="40" name="u_till_0" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 1" max_length="40" name="u_till_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 10(u_ip_rill_10)" max_length="40" name="u_till_10_u_ip_rill_10_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 10(u_till_10)" max_length="40" name="u_till_10_u_till_10_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 2" max_length="40" name="u_till_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 3" max_length="40" name="u_till_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 4" max_length="40" name="u_till_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 5" max_length="40" name="u_till_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 6" max_length="40" name="u_till_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 7" max_length="40" name="u_till_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 8" max_length="40" name="u_till_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TILL 9" max_length="40" name="u_till_9" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Till Qty" max_length="40" name="u_till_qty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Time zone" max_length="40" name="u_time_zone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="T&amp;A" max_length="40" name="u_t_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="WiFi Name" max_length="40" name="u_wifi_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="WiFi Password" max_length="40" name="u_wifi_password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Win10" max_length="40" name="u_win10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip / Postal Code" max_length="40" name="u_zip___postal_code" type="string"/>
+    </element>
+</database>
