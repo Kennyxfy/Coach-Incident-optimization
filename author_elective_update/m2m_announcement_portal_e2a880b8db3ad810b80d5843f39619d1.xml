@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
+    <m2m_announcement_portal action="DELETE">
+        <announcement display_value="cn announcement">a497ccb8db3ad810b80d5843f396191f</announcement>
+        <order>100</order>
+        <sp_portal display_value="Home">9d819013dbded0d067c89cb6db9619dc</sp_portal>
+        <sys_class_name>m2m_announcement_portal</sys_class_name>
+        <sys_created_by>hunan</sys_created_by>
+        <sys_created_on>2020-08-20 08:35:58</sys_created_on>
+        <sys_id>e2a880b8db3ad810b80d5843f39619d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>cn announcement.Home</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_update_name>m2m_announcement_portal_e2a880b8db3ad810b80d5843f39619d1</sys_update_name>
+        <sys_updated_by>hunan</sys_updated_by>
+        <sys_updated_on>2020-08-20 08:54:18</sys_updated_on>
+    </m2m_announcement_portal>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</application>
+        <file_path/>
+        <instance_id>c53614fcdbfcd3c48264f70fbf9619a1</instance_id>
+        <instance_name>tapestryasiadev</instance_name>
+        <name>m2m_announcement_portal_e2a880b8db3ad810b80d5843f39619d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal"><m2m_announcement_portal action="INSERT_OR_UPDATE"><announcement display_value="cn announcement">a497ccb8db3ad810b80d5843f396191f</announcement><order>100</order><sp_portal display_value="Home">9d819013dbded0d067c89cb6db9619dc</sp_portal><sys_class_name>m2m_announcement_portal</sys_class_name><sys_created_by>hunan</sys_created_by><sys_created_on>2020-08-20 08:35:58</sys_created_on><sys_id>e2a880b8db3ad810b80d5843f39619d1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>cn announcement.Home</sys_name><sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package><sys_policy/><sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope><sys_update_name>m2m_announcement_portal_e2a880b8db3ad810b80d5843f39619d1</sys_update_name><sys_updated_by>hunan</sys_updated_by><sys_updated_on>2020-08-20 08:54:18</sys_updated_on></m2m_announcement_portal></record_update>]]></payload>
+        <payload_hash>1992268402</payload_hash>
+        <record_name>cn announcement.Home</record_name>
+        <reverted_from/>
+        <source>6d5190ecdb221410b80d5843f3961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>hunan</sys_created_by>
+        <sys_created_on>2020-08-20 08:54:18</sys_created_on>
+        <sys_id>78fc04b0db7ad810b80d5843f39619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1740b13760f0000001</sys_recorded_at>
+        <sys_updated_by>hunan</sys_updated_by>
+        <sys_updated_on>2020-08-20 08:54:18</sys_updated_on>
+        <type>Portal Announcements</type>
+        <update_guid>fcfc04b00b7ad8109c62fa3b0e0421e5</update_guid>
+        <update_guid_history>fcfc04b00b7ad8109c62fa3b0e0421e5:1992268402,18c88cb8003ad810c292ee8d58b79aa8:-447146560</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2020-08-20 17:34:16">1216dc7cdb7ad810b80d5843f3961976</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>hunan</sys_created_by>
+        <sys_created_on>2020-08-20 09:34:16</sys_created_on>
+        <sys_db_object display_value="" name="m2m_announcement_portal">m2m_announcement_portal</sys_db_object>
+        <sys_id>051af39125b54155b1bd356963c72b99</sys_id>
+        <sys_metadata>e2a880b8db3ad810b80d5843f39619d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cn announcement.Home</sys_name>
+        <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
+        <sys_scope_delete display_value="">17e2383a57cd4729ad0ae975d0abb081</sys_scope_delete>
+        <sys_update_name>m2m_announcement_portal_e2a880b8db3ad810b80d5843f39619d1</sys_update_name>
+        <sys_update_version display_value="m2m_announcement_portal_e2a880b8db3ad810b80d5843f39619d1">78fc04b0db7ad810b80d5843f39619e6</sys_update_version>
+        <sys_updated_by>hunan</sys_updated_by>
+        <sys_updated_on>2020-08-20 09:34:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
