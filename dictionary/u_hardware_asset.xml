@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="hardware_asset" max_length="40" name="u_hardware_asset" sizeclass="15346" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="install_status" max_length="40" name="u_install_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pclv1" max_length="40" name="u_pclv1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pclv2" max_length="40" name="u_pclv2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store by" max_length="40" name="u_store_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="substatus" max_length="40" name="u_substatus" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="sys_created_on" max_length="40" name="u_sys_created_on" type="string"/>
+    </element>
+</database>

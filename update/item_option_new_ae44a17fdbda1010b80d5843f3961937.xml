@@ -17,7 +17,7 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <example_text>(대문자 + 소문자 + 숫자), 또는 비밀번호는 개인 정보를 포함할 수 없으며, 이전에 사용했던 비밀번호를 사용할 수 없습니다.</example_text>
+        <example_text>비밀번호(대문자 + 소문자 + 숫자)는 개인 정보를 포함할 수 없으며, 이전에 사용했던 비밀번호를 사용할 수 없습니다.</example_text>
         <field>u_new_password</field>
         <global>false</global>
         <help_tag>More information</help_tag>
@@ -59,14 +59,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-05 02:26:59</sys_created_on>
         <sys_id>ae44a17fdbda1010b80d5843f3961937</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>새 비밀번호</sys_name>
         <sys_package display_value="Coach Incident  optimization" source="x_achin_coach_inci">2b20d4e8db87f3404f229a64db96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Coach Incident  optimization">2b20d4e8db87f3404f229a64db96199d</sys_scope>
         <sys_update_name>item_option_new_ae44a17fdbda1010b80d5843f3961937</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-20 08:04:18</sys_updated_on>
+        <sys_updated_on>2020-08-21 07:23:30</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
